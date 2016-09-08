@@ -5,11 +5,11 @@ Maintainer: b1gbangseungri <bbscydia@gmail.com>
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Name: Colorful Fusion Loading Indicator
-Description: A Colorful Fusion Loading/Activity Indicator
+Description: A Color Fusion Loading/Activity Indicator
 Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
 Author: b1gbangseungri
 Depiction: https://worksbybbs.github.io/depictions/ColorFusionLoadingIndicator.html
 homepage: https://worksbybbs.github.io/depictions/ColorFusionLoadingIndicator.html
-Filename: /debs/ColorfulFusionLoadingIndicator.deb
+Filename: /debs/ColorFusionLoadingIndicator.deb
 Size: 95364
-MD5sum: 12da27d700ffa02296ceb24652489a3b
+MD5sum: e941aa033da7df64bc27bfbbc6eed68a
