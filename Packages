@@ -13,3 +13,19 @@ homepage: https://worksbybbs.github.io/depictions/ColorFusionLoadingIndicator.ht
 Filename: /debs/ColorFusionLoadingIndicator.deb
 Size: 93386
 MD5sum: ba37a5e88fc924818a5a2de554ba8550
+
+Package: io.github.worksbybbs.colorswirlloadingindicator
+Version: 1.0
+Section: Themes (Loading Indicators)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Name: Color Swirl Loading Indicator
+Description: A Colorful Swirl Loading/Activity Indicator
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.html
+homepage: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.html
+Filename: /debs/ColorSwirl.deb
+Size: 153800
+MD5sum: d4722032a4b6e1628c6a875dc90917aa
