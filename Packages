@@ -29,3 +29,19 @@ homepage: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.htm
 Filename: /debs/ColorSwirl.deb
 Size: 153800
 MD5sum: d4722032a4b6e1628c6a875dc90917aa
+
+Package: io.github.worksbybbs.thetwelve
+Version: 1.0
+Section: Themes (LockGlyph)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: firmware (>= 8.0), com.evilgoldfish.lockglyph
+Architecture: iphoneos-arm
+Name: The Twelve LockGlyph Pack
+Description: The Twelve LockGlyph Pack
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
+homepage: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
+Filename: /debs/TheTwelve.deb
+Size: 230720
+MD5sum: 55098dd8ca5b6db3a3b0efb5451336c6
