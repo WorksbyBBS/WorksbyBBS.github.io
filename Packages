@@ -45,3 +45,19 @@ homepage: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
 Filename: /debs/TheTwelve.deb
 Size: 230720
 MD5sum: 55098dd8ca5b6db3a3b0efb5451336c6
+
+Package: io.github.worksbybbs.bwcwrespringlogo
+Version: 1.0
+Section: Themes (Respring Logo)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Name: BWCW Respring Logo
+Description: A custom respring logo. Based on the Boy Who Cried Wolf (EXO's) logo.
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/BWCW.html
+homepage: https://worksbybbs.github.io/depictions/BWCW.html
+Filename: /debs/BWCW-Respring-Logo.deb
+Size: 92482
+MD5sum: 5fccce387b3dbdf671a31ee4e099a036
