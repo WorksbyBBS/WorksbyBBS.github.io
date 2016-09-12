@@ -61,3 +61,19 @@ homepage: https://worksbybbs.github.io/depictions/BWCW.html
 Filename: /debs/BWCW-Respring-Logo.deb
 Size: 92482
 MD5sum: 5fccce387b3dbdf671a31ee4e099a036
+
+Package: io.github.worksbybbs.whitebwcwrespringlogo
+Version: 1.0
+Section: Themes (Respring Logo)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Name: White BWCW Respring Logo
+Description: A white version of the BWCW Respring Logo
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/whiteBWCW.html
+homepage: https://worksbybbs.github.io/depictions/whiteBWCW.html
+Filename: /debs/White-BWCW-Respring-Logo.deb
+Size: 134862
+MD5sum: d5fca926d1ba1563bb25e91ebaedd8ce
