@@ -77,3 +77,19 @@ homepage: https://worksbybbs.github.io/depictions/whiteBWCW.html
 Filename: /debs/White-BWCW-Respring-Logo.deb
 Size: 134862
 MD5sum: d5fca926d1ba1563bb25e91ebaedd8ce
+
+Package: io.github.worksbybbs.cartoonfaceskeypad
+Version: 1.0
+Section: Themes (Keypad)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Name: Cartoon Faces Keypad
+Description: A keypad consisting of cartoon faces. Contains Phone and Passcode versions.
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/CartoonFacesKeypad.html
+homepage: https://worksbybbs.github.io/depictions/CartoonFacesKeypad.html
+Filename: /debs/CartoonFacesKeypad.deb
+Size: 802448
+MD5sum: 85bd066caaed8b8557a744ecc1faa590
