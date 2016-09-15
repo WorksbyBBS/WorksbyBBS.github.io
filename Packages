@@ -109,3 +109,35 @@ homepage: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
 Filename: /debs/gotglockglyph.deb
 Size: 129626
 MD5sum: c1502295730627f11655f416930d7d6b
+
+Package: io.github.worksbybbs.constellations
+Version: 1.0
+Section: Themes (LockGlyph)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: firmware (>= 8.0), com.evilgoldfish.lockglyph
+Architecture: iphoneos-arm
+Name: Constellations LockGlyph Pack
+Description: A LockGlyph pack of various constellations. 
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/Constellations.html
+homepage: https://worksbybbs.github.io/depictions/Constellations.html
+Filename: /debs/Constellations.deb
+Size: 190470
+MD5sum: 3dba728ba9c066f2ffde8c455160bf84
+
+Package: io.github.worksbybbs.constellations2
+Version: 1.0
+Section: Themes (LockGlyph)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: firmware (>= 8.0), com.evilgoldfish.lockglyph
+Architecture: iphoneos-arm
+Name: Constellations 2 LockGlyph Pack
+Description: A second LockGlyph pack containing more constellations. 2 Versions: Normal, and Star.
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/Constellations2.html
+homepage: https://worksbybbs.github.io/depictions/Constellations2.html
+Filename: /debs/Constellations2.deb
+Size: 353978
+MD5sum: 5df99858ae1c031b3e42487a19ee246e
