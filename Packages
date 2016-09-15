@@ -93,3 +93,19 @@ homepage: https://worksbybbs.github.io/depictions/CartoonFacesKeypad.html
 Filename: /debs/CartoonFacesKeypad.deb
 Size: 799840
 MD5sum: 481f3d45f795e10d741469c0d6a0bf3c
+
+Package: io.github.worksbybbs.gotglockglyph
+Version: 1.0
+Section: Themes (LockGlyph)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: firmware (>= 8.0), com.evilgoldfish.lockglyph
+Architecture: iphoneos-arm
+Name: Guardians of the Galaxy LockGlyph Pack
+Description: A Guardians of the Galaxy LockGlyph Pack. Contains 3 version: white, silver, and gold
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
+homepage: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
+Filename: /debs/gotglockglyph.deb
+Size: 129626
+MD5sum: c1502295730627f11655f416930d7d6b
