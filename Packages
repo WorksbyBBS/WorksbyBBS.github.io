@@ -141,3 +141,19 @@ homepage: https://worksbybbs.github.io/depictions/Constellations2.html
 Filename: /debs/Constellations2.deb
 Size: 353978
 MD5sum: 5df99858ae1c031b3e42487a19ee246e
+
+Package: io.github.worksbybbs.hexagonsloadingindicator
+Version: 1.0
+Section: Themes (Loading Indicators)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Name: Hexagons Loading Indicator
+Description: A Loading/Activity Indicator composed of beautiful hexagons
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/HexagonsLoadingIndicator.html
+homepage: https://worksbybbs.github.io/depictions/HexagonsLoadingIndicator.html
+Filename: /debs/HexagonsLoadingIndicator.deb
+Size: 124898
+MD5sum: fc8b230c3fff0a3aec295e2bc31775c9
