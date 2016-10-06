@@ -6,11 +6,11 @@
     @import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
     
     body {
-        background-color: #fff;
+        background-color: #e6e6e6;
         margin:10;
     	padding:10;
     	font-weight:100;
-    	color: #D9BCDB;
+    	color: #000;
     	letter-spacing:1;
     	font-family: 'Open Sans Condensed', sans-serif;
       text-align: center;
@@ -20,60 +20,80 @@
     
     h1.title
     {
+       display: block;
+        margin-left: 25%;
+    
+        width: 300px;
       font-family: 'Lobster', cursive;
       text-transform: lowercase;
       font-size: 60px;
-      color: #57A2DB;
+      color: #000000;
+        margin-top: -70px;
+        background-color: #e6e6e6;
     }
     
-    a {
-        text-decoration: none;
-        color: #80BA81;
-    }
-    a:hover {
-        text-decoration: none;
-    	color: #57A2DB;
+    
+    div {
+        margin-top: 150px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 600px;
+        height:225px;
+        padding: 25px;
+        border: 3px solid black;
     }
     
     a.button {
-  background: #80BA81;
-  background-image: -webkit-linear-gradient(top, #80BA81, #6fbd70);
-  background-image: -moz-linear-gradient(top, #80BA81, #6fbd70);
-  background-image: -ms-linear-gradient(top, #80BA81, #6fbd70);
-  background-image: -o-linear-gradient(top, #80BA81, #6fbd70);
-  background-image: linear-gradient(to bottom, #80BA81, #6fbd70);
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #ffffff);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  color: #ffffff;
+  color: #000;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
     }
     
     a.button:hover {
-  background: #57A2DB;
-  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  background: #000;
+        color:#fff;
+  background-image: -webkit-linear-gradient(top, #000, #000);
+  background-image: -moz-linear-gradient(top, #000, #000);
+  background-image: -ms-linear-gradient(top, #000, #000);
+  background-image: -o-linear-gradient(top, #000, #000);
+  background-image: linear-gradient(to bottom, #000, #000);
   text-decoration: none;
 }
     
+ a {
+        text-decoration: none;
+        color: #000;
+     margin-top: 100px;
+     background-color: #e6e6e6;
+    }
+    a:hover {
+        text-decoration: none;
+    	color: #fff;
+    } 
     
 </style>
 
 <body>
-
+<div>
 <h1 class=title>WorksbyBBS</h1>
-<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://worksbybbs.github.io" class="button" >Add This Repository to Cydia</a>
-    
+
+    <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://worksbybbs.github.io" class="button" >Add This Repository to Cydia</a>
+   <br><br>
 <p>Contact me using:</p>
-<a href="https://www.reddit.com/user/b1gbangseungri/" class="button" target="_blank"> <i class="fa fa-reddit-alien" aria-hidden="true"></i>&nbsp;&nbsp;Reddit</a> &nbsp;&nbsp;
+<a href="https://www.reddit.com/user/b1gbangseungri/" target="_blank">&nbsp;<i class="fa fa-reddit-alien" aria-hidden="true"></i>&nbsp;</a>
     
-<a href="mailto:bbscydia@gmail.com?Subject=WorksbyBBS%20Support" target="_top" class="button"> <i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;Email</a>  
-    
+<a href="mailto:bbscydia@gmail.com?Subject=WorksbyBBS%20Support" target="_top">&nbsp;<i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;</a>
+    </div>
 
 </body>
 </html>
