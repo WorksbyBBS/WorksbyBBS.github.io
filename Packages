@@ -158,18 +158,18 @@ Filename: /debs/HexagonsLoadingIndicator.deb
 Size: 124898
 MD5sum: fc8b230c3fff0a3aec295e2bc31775c9
 
-Package: io.github.worksbybbs.simplewordscc
+Package: com.a3tweaks.polus.worksbybbssimplewordscc
 Version: 1.0
 Section: Tweaks (Polus)
 Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Depends: firmware (>= 7.0), com.a3tweaks.polus
+Depends: firmware (>= 8.0), com.a3tweaks.polus
 Architecture: iphoneos-arm
 Name: Simple Words CC for Polus
 Description: A Polus pack that consists of words instead of icons
 Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: cgh0st
+Author: cgh0st <bbscydia@gmail.com>
 Depiction: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
 homepage: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
 Filename: /debs/SimpleWordsCCforPolus.deb
-Size: 32914
-MD5sum: 64459dc0b4847c1ca00c57972d7aa8d0
+Size: 32926
+MD5sum: 6086b3068df3aaa6e9b1d90af85fa3fe
