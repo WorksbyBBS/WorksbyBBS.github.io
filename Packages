@@ -158,7 +158,7 @@ Filename: /debs/HexagonsLoadingIndicator.deb
 Size: 124898
 MD5sum: fc8b230c3fff0a3aec295e2bc31775c9
 
-Package: com.a3tweaks.polus.worksbybbssimplewordscc
+Package: io.github.worksbybbs.simplewordscc
 Version: 1.0
 Section: Tweaks (Polus)
 Maintainer: b1gbangseungri <bbscydia@gmail.com>
@@ -171,5 +171,5 @@ Author: cgh0st <bbscydia@gmail.com>
 Depiction: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
 homepage: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
 Filename: /debs/SimpleWordsCCforPolus.deb
-Size: 32926
-MD5sum: 6086b3068df3aaa6e9b1d90af85fa3fe
+Size: 32908
+MD5sum: 8e08fcb86a3f93e7c0a9248a36b9401a
