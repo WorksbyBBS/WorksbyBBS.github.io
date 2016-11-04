@@ -173,3 +173,19 @@ homepage: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
 Filename: /debs/SimpleWordsCCforPolus.deb
 Size: 32914
 MD5sum: 6a6c0afd8fbe90a5baf9d80321ffda03
+
+Package: io.github.worksbybbs.inkmusiccontrols
+Version: 1.0
+Section: Themes (Music Controls)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Name: Ink Music Controls
+Description: An ink theme for music controls
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/InkMusicControls.html
+homepage: https://worksbybbs.github.io/depictions/InkMusicControls.html
+Filename: /debs/InkMusicControls.deb
+Size: 73980
+MD5sum: 437b7cddcaa33b89fc53d5b785ac225e
