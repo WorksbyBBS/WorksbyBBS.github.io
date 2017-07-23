@@ -30,21 +30,6 @@ Filename: /debs/ColorSwirl.deb
 Size: 153800
 MD5sum: d4722032a4b6e1628c6a875dc90917aa
 
-Package: io.github.worksbybbs.thetwelve
-Version: 1.0.1
-Section: Themes (LockGlyph)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Architecture: iphoneos-arm
-Name: The Twelve LockGlyph Pack
-Description: The Twelve LockGlyph Pack
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
-homepage: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
-Filename: /debs/TheTwelve.deb
-Size: 230694
-MD5sum: 83ac0d3a6ecb35758c77e4515960d786
-
 Package: io.github.worksbybbs.bwcwrespringlogo
 Version: 1.0
 Section: Themes (Respring Logo)
@@ -188,3 +173,18 @@ homepage: https://worksbybbs.github.io/depictions/InkMusicControls.html
 Filename: /debs/InkMusicControls.deb
 Size: 73980
 MD5sum: 437b7cddcaa33b89fc53d5b785ac225e
+
+Package: io.github.worksbybbs.thetwelve
+Version: 1.0.1
+Section: Themes (LockGlyph)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Architecture: iphoneos-arm
+Name: The Twelve LockGlyph Pack
+Description: The Twelve LockGlyph Pack
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
+homepage: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
+Filename: /debs/TheTwelve.deb
+Size: 230688
+MD5sum: 117afd2707512f0dee3e60c2b97aa562
