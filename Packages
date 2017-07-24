@@ -94,22 +94,6 @@ Filename: /debs/gotglockglyph.deb
 Size: 129626
 MD5sum: c1502295730627f11655f416930d7d6b
 
-Package: io.github.worksbybbs.constellations
-Version: 1.0
-Section: Themes (LockGlyph)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Depends: firmware (>= 8.0), com.evilgoldfish.lockglyph
-Architecture: iphoneos-arm
-Name: Constellations LockGlyph Pack
-Description: A LockGlyph pack of various constellations. 
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/Constellations.html
-homepage: https://worksbybbs.github.io/depictions/Constellations.html
-Filename: /debs/Constellations.deb
-Size: 190470
-MD5sum: 3dba728ba9c066f2ffde8c455160bf84
-
 Package: io.github.worksbybbs.constellations2
 Version: 1.0
 Section: Themes (LockGlyph)
@@ -188,3 +172,18 @@ homepage: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
 Filename: /debs/TheTwelve.deb
 Size: 230684
 MD5sum: 1691e10a84e7aef0cd7db6d277dc126c
+
+Package: io.github.worksbybbs.constellations
+Version: 1.0.1
+Section: Themes (LockGlyph)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Architecture: iphoneos-arm
+Name: Constellations LockGlyph Pack
+Description: A LockGlyph pack of various constellations. 
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/Constellations.html
+homepage: https://worksbybbs.github.io/depictions/Constellations.html
+Filename: /debs/Constellations.deb
+Size: 190400
+MD5sum: 8b405f059006ada480ce49680ed56554
