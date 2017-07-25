@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato', sans-serif;
+    overflow-x: hidden;
+    background-color: #efeff4;
+    color: white;
+}
+
+p{
+    font-size: 18px;
+}
+
+#description{
+    padding-top: 5px;
+}
+
+a {
+    color: white;
+}
+
+a:hover{
+    color: #6B6D76;
+}
+
+h1, h2, h3, h4, h5, h6, .title {
+    font-family: 'Dosis', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+#descTitle, #shotsTitle, #paypalTitle, #linksTitle, #dependTitle {
+    background-color: #6B6D76;
+}
+
+.list-group-item {
+    background-color: #9BC4BC;
+    border: none;
+    border-radius: 0;
+}
