@@ -185,3 +185,18 @@ homepage: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
 Filename: /debs/gotglockglyph.deb
 Size: 129606
 MD5sum: 2f511c4f49abc72cb902f88449b7e0a1
+
+Package: io.github.worksbybbs.voodoo
+Version: 1.0
+Section: Themes (LockGlyph)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Architecture: iphoneos-arm
+Name: Voodoo LockGlyph Pack
+Description: Voodoo LockGlyph Pack
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/Voodoo.html
+homepage: https://worksbybbs.github.io/depictions/Voodoo.html
+Filename: /debs/Voodoo.deb
+Size: 62140
+MD5sum: 6f1fa2dff63618c96a7b1ae6bf1a9de3
