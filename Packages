@@ -200,3 +200,18 @@ homepage: https://worksbybbs.github.io/depictions/Voodoo.html
 Filename: /debs/Voodoo.deb
 Size: 62140
 MD5sum: 6f1fa2dff63618c96a7b1ae6bf1a9de3
+
+Package: io.github.worksbybbs.compactionscc11
+Version: 1.0
+Section: CC Themes (iOS11)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Architecture: iphoneos-arm
+Name: Compactions CC iOS 11
+Description: Compactions Icons for the CC
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/CompactionsCC11.html
+homepage: https://worksbybbs.github.io/depictions/CompactionsCC11.html
+Filename: /debs/CompactionsCC11.deb
+Size: 69948
+MD5sum: 06c3e2fd64875ecf6d3911d53470027d
