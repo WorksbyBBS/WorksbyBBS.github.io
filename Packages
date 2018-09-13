@@ -202,8 +202,8 @@ Size: 62140
 MD5sum: 6f1fa2dff63618c96a7b1ae6bf1a9de3
 
 Package: io.github.worksbybbs.compactionscc11
-Version: 1.0
-Section: CC Themes
+Version: 1.0.1
+Section: Themes (iOS 11 CC)
 Maintainer: b1gbangseungri <bbscydia@gmail.com>
 Architecture: iphoneos-arm
 Name: Compactions CC iOS 11
@@ -213,5 +213,5 @@ Author: b1gbangseungri
 Depiction: https://worksbybbs.github.io/depictions/CompactionsCC11.html
 homepage: https://worksbybbs.github.io/depictions/CompactionsCC11.html
 Filename: /debs/CompactionsCC11.deb
-Size: 69698
-MD5sum: 1659a1b69e927dc5e35e68fc7c46df38
+Size: 69694
+MD5sum: 9acd7f15207a20a72366d950aafd857d
