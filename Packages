@@ -215,3 +215,18 @@ homepage: https://worksbybbs.github.io/depictions/CompactionsCC11.html
 Filename: /debs/CompactionsCC11.deb
 Size: 69694
 MD5sum: 9acd7f15207a20a72366d950aafd857d
+
+Package: io.github.worksbybbs.flatmusiccontrols11
+Version: 1.0
+Section: Themes (iOS 11 Music Controls)
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Architecture: iphoneos-arm
+Name: Flat Music Controls
+Description: Flat-looking music controls. Works in app, CC, and LS
+Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/FMC11.html
+homepage: https://worksbybbs.github.io/depictions/FMC11.html
+Filename: /debs/FlatMusicControls.deb
+Size: 17212
+MD5sum: 9d451cd0bafa9ed47082da79653ff269
