@@ -52,13 +52,45 @@
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Contact Support",
-          "action": "bbscydia@gmail.com",
-          "class": "DepictionTableButtonView"
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/alolastmoment",
+          "class": "DepictionTableButtonView",
+          "title": "🐦 Find me on Twitter (@alolastmoment)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:bbscydia@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "✉️ Send me an email",
+          "openExternal": true
+        },
+        {
+          "action": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BBSCydia%40gmail%2ecom&lc=QA&item_name=WorksByBBS%20Repo%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a ☕️ via PayPal",
+          "openExternal": true
         },
         {
           "spacing": 16,
           "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://WorksByBBS.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
         },
         {
           "spacing": 20,
