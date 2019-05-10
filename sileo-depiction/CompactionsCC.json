@@ -1,0 +1,110 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://i.imgur.com/0NwwtJJ.png",
+  "tintColor": "#2cb1be",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Compactions CC",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://i.imgur.com/0NwwtJJ.png",
+              "fullSizeURL": "https://i.imgur.com/0NwwtJJ.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "Well, here it is!\r\n\r\nCompactions CC for iOS11 and 12. This includes 84 icons. Note that not all CC modules are themed. The animated ones like the Lock, DND etc aren't. Not all CCModules options are themed as well (Mail didn't work for me, but I left it in case it works for someone else).\r\n\r\nI have only tested this on my iPhone X on iOS 11.3.1. I expect it'll work on Plus devices as well, but not the others.\r\n\r\nI'm honestly just swamped with university work, so for the non-Plus/X devices, I apologize.\r\n\r\n<b>!!!THIS PART IS IMPORTANT!!!</b>\r\n\r\nThe wifi and Bluetooth icons are themed using BetterCCIconsPro. I've included both files inside the theme folder, so you guys need to move them (just the images, not the entire folder) to /Library/PreferenceBundles/BetterCCIcons.bundle and then enable glyph mode (experimental) in the settings\r\n\r\nAs a last note, although this is free, donations are very welcome. I've spent a lot of effort and invested time into this for everyone. I hope it's to your liking!",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.1",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "Alo",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "action": "bbscydia@gmail.com",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+        "title": "1.0.1",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Update",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "markdown": "<small style=\"color: #999; margin-top: -8px;\">Added More Icons</small>",
+        "useRawFormat": true,
+        "class": "DepictionMarkdownView"
+      }
+		      ,{
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released First Release Date</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

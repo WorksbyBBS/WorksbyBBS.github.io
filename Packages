@@ -1,232 +1,248 @@
-Package: io.github.worksbybbs.colorfulfusionloadingindicator
-Version: 1.0
-Section: Themes (Loading Indicators)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Name: Colorful Fusion Loading Indicator
-Description: A Color Fusion Loading/Activity Indicator
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/ColorFusionLoadingIndicator.html
-homepage: https://worksbybbs.github.io/depictions/ColorFusionLoadingIndicator.html
-Filename: /debs/ColorFusionLoadingIndicator.deb
-Size: 93386
-MD5sum: ba37a5e88fc924818a5a2de554ba8550
-
-Package: io.github.worksbybbs.colorswirlloadingindicator
-Version: 1.0
-Section: Themes (Loading Indicators)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Name: Color Swirl Loading Indicator
-Description: A Colorful Swirl Loading/Activity Indicator
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.html
-homepage: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.html
-Filename: /debs/ColorSwirl.deb
-Size: 153800
-MD5sum: d4722032a4b6e1628c6a875dc90917aa
-
 Package: io.github.worksbybbs.bwcwrespringlogo
 Version: 1.0
-Section: Themes (Respring Logo)
+Architecture: iphoneos-arm
 Maintainer: b1gbangseungri <bbscydia@gmail.com>
 Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Name: BWCW Respring Logo
-Description: A custom respring logo. Based on the Boy Who Cried Wolf (EXO's) logo.
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/BWCW.html
-homepage: https://worksbybbs.github.io/depictions/BWCW.html
-Filename: /debs/BWCW-Respring-Logo.deb
+Filename: ./debs/BWCW-Respring-Logo.deb
 Size: 92482
 MD5sum: 5fccce387b3dbdf671a31ee4e099a036
-
-Package: io.github.worksbybbs.whitebwcwrespringlogo
-Version: 1.0
+SHA1: 8fa5cac8fd35df9658093dadb70ed924043cd0da
+SHA256: 0625e7f35f9c3ff3c76f53138dfa41ab8f91dd8ba178e12b7a75224fd4a97ba7
 Section: Themes (Respring Logo)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Name: White BWCW Respring Logo
-Description: A white version of the BWCW Respring Logo
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Homepage: https://worksbybbs.github.io/depictions/BWCW.html
+Description: A custom respring logo. Based on the Boy Who Cried Wolf (EXO's) logo.
 Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/whiteBWCW.html
-homepage: https://worksbybbs.github.io/depictions/whiteBWCW.html
-Filename: /debs/White-BWCW-Respring-Logo.deb
-Size: 134862
-MD5sum: d5fca926d1ba1563bb25e91ebaedd8ce
+Depiction: https://worksbybbs.github.io/depictions/BWCW.html
+Name: BWCW Respring Logo
 
 Package: io.github.worksbybbs.cartoonfaceskeypad
 Version: 1.0
-Section: Themes (Keypad)
+Architecture: iphoneos-arm
 Maintainer: b1gbangseungri <bbscydia@gmail.com>
 Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Name: Cartoon Faces Keypad
-Description: A keypad consisting of cartoon faces. Contains Phone and Passcode versions.
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/CartoonFacesKeypad.html
-homepage: https://worksbybbs.github.io/depictions/CartoonFacesKeypad.html
-Filename: /debs/CartoonFacesKeypad.deb
+Filename: ./debs/CartoonFacesKeypad.deb
 Size: 799840
 MD5sum: 481f3d45f795e10d741469c0d6a0bf3c
+SHA1: 2137b1cdd3e51df1b73e73f40c0cc9c947f80068
+SHA256: 60b88c135cdd06d647b1edbe364c5e3910783ff3719cbdb06ace26b0efcf5900
+Section: Themes (Keypad)
+Homepage: https://worksbybbs.github.io/depictions/CartoonFacesKeypad.html
+Description: A keypad consisting of cartoon faces. Contains Phone and Passcode versions
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/CartoonFacesKeypad.html
+Name: Cartoon Faces Keypad
 
-Package: io.github.worksbybbs.hexagonsloadingindicator
+Package: io.github.worksbybbs.colorfulfusionloadingindicator
 Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/ColorFusionLoadingIndicator.deb
+Size: 93386
+MD5sum: ba37a5e88fc924818a5a2de554ba8550
+SHA1: 953c4fd483d4ba948eb162bb7b94f8a747fe1125
+SHA256: e63315ba1b2cc0bb2273074a5a8bc18f08a5efadfd4f78529f664e1b9971197f
 Section: Themes (Loading Indicators)
+Homepage: https://worksbybbs.github.io/depictions/ColorFusionLoadingIndicator.html
+Description: A Colorful Fusion Loading/Activity Indicator
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/ColorFusionLoadingIndicator.html
+Name: Colorful Fusion Loading Indicator
+
+Package: io.github.worksbybbs.colorswirlloadingindicator
+Version: 1.0
+Architecture: iphoneos-arm
 Maintainer: b1gbangseungri <bbscydia@gmail.com>
 Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Name: Hexagons Loading Indicator
-Description: A Loading/Activity Indicator composed of beautiful hexagons
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
+Filename: ./debs/ColorSwirl.deb
+Size: 153800
+MD5sum: d4722032a4b6e1628c6a875dc90917aa
+SHA1: ac2e4a66fc45015bf326214b6c0f7bb98d128a0b
+SHA256: fca0d736ae33013e70947b842c2119a507a9105626da3c9ca10b36f9966f2ca9
+Section: Themes (Loading Indicators)
+Homepage: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.html
+Description: A Colorful Swirl Loading/Activity Indicator
 Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/HexagonsLoadingIndicator.html
-homepage: https://worksbybbs.github.io/depictions/HexagonsLoadingIndicator.html
-Filename: /debs/HexagonsLoadingIndicator.deb
-Size: 124898
-MD5sum: fc8b230c3fff0a3aec295e2bc31775c9
-
-Package: io.github.worksbybbs.simplewordscc
-Version: 1.0
-Section: Tweaks (Polus)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Depends: firmware (>= 8.0), com.a3tweaks.polus
-Architecture: iphoneos-arm
-Name: Simple Words CC for Polus
-Description: A Polus pack that consists of words instead of icons
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: cgh0st <bbscydia@gmail.com>
-Depiction: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
-homepage: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
-Filename: /debs/SimpleWordsCCforPolus.deb
-Size: 32914
-MD5sum: 6a6c0afd8fbe90a5baf9d80321ffda03
-
-Package: io.github.worksbybbs.inkmusiccontrols
-Version: 1.0
-Section: Themes (Music Controls)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Depends: com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Name: Ink Music Controls
-Description: An ink theme for music controls
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/InkMusicControls.html
-homepage: https://worksbybbs.github.io/depictions/InkMusicControls.html
-Filename: /debs/InkMusicControls.deb
-Size: 73980
-MD5sum: 437b7cddcaa33b89fc53d5b785ac225e
-
-Package: io.github.worksbybbs.thetwelve
-Version: 1.0.1
-Section: Themes (LockGlyph)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Architecture: iphoneos-arm
-Name: The Twelve LockGlyph Pack
-Description: The Twelve LockGlyph Pack
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
-homepage: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
-Filename: /debs/TheTwelve.deb
-Size: 230684
-MD5sum: 1691e10a84e7aef0cd7db6d277dc126c
-
-Package: io.github.worksbybbs.constellations
-Version: 1.0.1
-Section: Themes (LockGlyph)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Architecture: iphoneos-arm
-Name: Constellations LockGlyph Pack
-Description: A LockGlyph pack of various constellations. 
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/Constellations.html
-homepage: https://worksbybbs.github.io/depictions/Constellations.html
-Filename: /debs/Constellations.deb
-Size: 190400
-MD5sum: 8b405f059006ada480ce49680ed56554
-
-Package: io.github.worksbybbs.constellations2
-Version: 1.0.1
-Section: Themes (LockGlyph)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Architecture: iphoneos-arm
-Name: Constellations 2 LockGlyph Pack
-Description: A second LockGlyph pack containing more constellations. 2 Versions: Normal, and Star.
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/Constellations2.html
-homepage: https://worksbybbs.github.io/depictions/Constellations2.html
-Filename: /debs/Constellations2.deb
-Size: 353932
-MD5sum: d798c9cf01d0a0dd4bf07d4e45e65391
-
-Package: io.github.worksbybbs.gotglockglyph
-Version: 1.0.1
-Section: Themes (LockGlyph)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Architecture: iphoneos-arm
-Name: Guardians of the Galaxy LockGlyph Pack
-Description: A Guardians of the Galaxy LockGlyph Pack. Contains 3 version: white, silver, and gold
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
-homepage: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
-Filename: /debs/gotglockglyph.deb
-Size: 129606
-MD5sum: 2f511c4f49abc72cb902f88449b7e0a1
-
-Package: io.github.worksbybbs.voodoo
-Version: 1.0
-Section: Themes (LockGlyph)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
-Architecture: iphoneos-arm
-Name: Voodoo LockGlyph Pack
-Description: Voodoo LockGlyph Pack
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/Voodoo.html
-homepage: https://worksbybbs.github.io/depictions/Voodoo.html
-Filename: /debs/Voodoo.deb
-Size: 62140
-MD5sum: 6f1fa2dff63618c96a7b1ae6bf1a9de3
+Depiction: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.html
+Name: Color Swirl Loading Indicator
 
 Package: io.github.worksbybbs.compactionscc11
 Version: 1.0.1
-Section: Themes (iOS 11 CC)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
 Architecture: iphoneos-arm
-Name: Compactions CC iOS 11
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/CompactionsCC.deb
+Size: 69542
+MD5sum: ab56ae773605a63e51b2c25ee8a92202
+SHA1: c41bcf69f1f8deb702d1587cb295c799f9a95439
+SHA256: 1461ef056c522adfea7fca6e6a735cef5d8219e6b90dc59cf71db489e06ed121
+Section: CC Themes (iOS 11 and 12)
 Description: Compactions Icons for the CC
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
+Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/CompactionsCC11.html
-homepage: https://worksbybbs.github.io/depictions/CompactionsCC11.html
-Filename: /debs/CompactionsCC11.deb
-Size: 69694
-MD5sum: 9acd7f15207a20a72366d950aafd857d
+Name: Compactions CC
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/CompactionsCC.json
+
+Package: io.github.worksbybbs.constellations
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Filename: ./debs/Constellations.deb
+Size: 190400
+MD5sum: 8b405f059006ada480ce49680ed56554
+SHA1: f7432fcfbac536fcad66c4cdace5788fdc607533
+SHA256: d1792e7589d7ca98507b04f04778e5fb2d8e463bd1b2f4a9445b4ed9787d87ec
+Section: Themes (LockGlyph)
+Homepage: https://worksbybbs.github.io/depictions/Constellations.html
+Description: A LockGlyph pack of various constellations.
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/Constellations.html
+Name: Constellations LockGlyph Pack
+
+Package: io.github.worksbybbs.constellations2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Filename: ./debs/Constellations2.deb
+Size: 353932
+MD5sum: d798c9cf01d0a0dd4bf07d4e45e65391
+SHA1: 6d0074c62116d76cf66d561677f6a875ca86e571
+SHA256: f198e17f23b97340b9d82bd40001d52aa1ab094bb14ac271d6639b66a07bab75
+Section: Themes (LockGlyph)
+Homepage: https://worksbybbs.github.io/depictions/Constellations2.html
+Description: A second LockGlyph pack containing more constellations. 2 Versions: Normal, and Star.
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/Constellations2.html
+Name: Constellations 2 LockGlyph Pack
 
 Package: io.github.worksbybbs.flatmusiccontrols11
 Version: 1.0
-Section: Themes (iOS 11 Music Controls)
-Maintainer: b1gbangseungri <bbscydia@gmail.com>
 Architecture: iphoneos-arm
-Name: Flat Music Controls
-Description: Flat-looking music controls. Works in app, CC, and LS
-Sponsor: WorksbyBBS.github.io <https://WorksbyBBS.github.io>
-Author: b1gbangseungri
-Depiction: https://worksbybbs.github.io/depictions/FMC11.html
-homepage: https://worksbybbs.github.io/depictions/FMC11.html
-Filename: /debs/FlatMusicControls.deb
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Filename: ./debs/FlatMusicControls.deb
 Size: 17212
 MD5sum: 9d451cd0bafa9ed47082da79653ff269
+SHA1: fd13f8e23cf1e68d4e378413001fa1782e9ce62d
+SHA256: 10b42620ceef50b9279899a1ee20ae2e8040bece1b1bab07dc445adf20fcbe89
+Section: Themes (iOS 11 Music Controls)
+Homepage: https://worksbybbs.github.io/depictions/FMC11.html
+Description: Flat-looking music controls. Works in app, CC, and LS
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/FMC11.html
+Name: Flat Music Controls
+
+Package: io.github.worksbybbs.gotglockglyph
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Filename: ./debs/gotglockglyph.deb
+Size: 129606
+MD5sum: 2f511c4f49abc72cb902f88449b7e0a1
+SHA1: d5f6012e40ce0f4a210a7fc70ebbbcae9921b73d
+SHA256: 9bc7dfb0a68caab1ac9add020de7447e8b4d0f5041abb5267676ab9d0cfa9ff4
+Section: Themes (LockGlyph)
+Homepage: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
+Description: A Guardians of the Galaxy LockGlyph Pack. Contains 3 version: white, silver, and gold
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
+Name: Guardians of the Galaxy LockGlyph Pack
+
+Package: io.github.worksbybbs.hexagonsloadingindicator
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/HexagonsLoadingIndicator.deb
+Size: 124898
+MD5sum: fc8b230c3fff0a3aec295e2bc31775c9
+SHA1: 0d096fc60a7ee8f548bf21bbda6ae56523ddc98b
+SHA256: 5d8378611f5b185d493c5dc3ddf0b3e087a4c8957a318811b6b7419210f44944
+Section: Themes (Loading Indicators)
+Homepage: https://worksbybbs.github.io/depictions/HexagonsLoadingIndicator.html
+Description: A Loading/Activity Indicator composed of beautiful hexagons
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/HexagonsLoadingIndicator.html
+Name: Hexagons Loading Indicator
+
+Package: io.github.worksbybbs.inkmusiccontrols
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/InkMusicControls.deb
+Size: 73980
+MD5sum: 437b7cddcaa33b89fc53d5b785ac225e
+SHA1: df9e0b0b59d7016b5b0f1b4543a5afd082c9022b
+SHA256: 2960ab0843e14baa803fe6aa27a2aeafba7870a99f1c951c0fcbe382e4220bde
+Section: Themes (Music Controls)
+Homepage: https://worksbybbs.github.io/depictions/InkMusicControls.html
+Description: An ink theme for music controls
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/InkMusicControls.html
+Name: Ink Music Controls
+
+Package: io.github.worksbybbs.simplewordscc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: firmware (>= 8.0), com.a3tweaks.polus
+Filename: ./debs/SimpleWordsCCforPolus.deb
+Size: 32914
+MD5sum: 6a6c0afd8fbe90a5baf9d80321ffda03
+SHA1: 41522160ae6d793e2269cc62173bfec7132fc9cc
+SHA256: 8edbe55905be0338de95312b916f4f71d0a116eafc251f081eef1c3222a0d7aa
+Section: Tweaks (Polus)
+Homepage: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
+Description: A Polus pack that consists of words instead of icons
+Author: cgh0st <bbscydia@gmail.com>
+Depiction: https://worksbybbs.github.io/depictions/SimpleWordsCC.html
+Name: Simple Words CC for Polus
+
+Package: io.github.worksbybbs.thetwelve
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Filename: ./debs/TheTwelve.deb
+Size: 230684
+MD5sum: 1691e10a84e7aef0cd7db6d277dc126c
+SHA1: c924c57370866c7e990113ea1e0e3521a2f5ad29
+SHA256: a7a4704a2afb78f43e0bd97e6c2df07331207a19c6aca043082a3ca85f157523
+Section: Themes (LockGlyph)
+Homepage: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
+Description: The Twelve LockGlyph Pack
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/TheTwelveLockGlyphPack.html
+Name: The Twelve LockGlyph Pack
+
+Package: io.github.worksbybbs.voodoo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Filename: ./debs/Voodoo.deb
+Size: 62140
+MD5sum: 6f1fa2dff63618c96a7b1ae6bf1a9de3
+SHA1: f6137663077c22a783338b651ebbe0a3194595c5
+SHA256: 209ecad7d4de0dd1871186abbe944d129207e0d9ee27e0544d00085e6c6a3e25
+Section: Themes (LockGlyph)
+Homepage: https://worksbybbs.github.io/depictions/Voodoo.html
+Description: Voodoo LockGlyph Pack
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/Voodoo.html
+Name: Voodoo LockGlyph Pack
+
+Package: io.github.worksbybbs.whitebwcwrespringlogo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: b1gbangseungri <bbscydia@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/White-BWCW-Respring-Logo.deb
+Size: 134862
+MD5sum: d5fca926d1ba1563bb25e91ebaedd8ce
+SHA1: 1dcc158d5257eb727d0e916e429d0657f3599096
+SHA256: 02e34dac218f53688e0a7e2905315dcc9093b72749c57a0f0399e6dbd649267d
+Section: Themes (Respring Logo)
+Homepage: https://worksbybbs.github.io/depictions/whiteBWCW.html
+Description: A white version of the BWCW Respring Logo
+Author: b1gbangseungri
+Depiction: https://worksbybbs.github.io/depictions/whiteBWCW.html
+Name: White BWCW Respring Logo
+
