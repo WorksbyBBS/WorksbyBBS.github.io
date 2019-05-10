@@ -25,7 +25,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Flat-looking music controls. They work in the music app, LS, and CC.\r\nThese have been tested ONLY on iPhone X running iOS 11.3.1. They are @3x, so I assume they'll only work on X/Plus devices.",
+          "markdown": "Flat-looking music controls. They work in the music app, LS, and CC.\r\n\r\nThese have been tested ONLY on iPhone X running iOS 11.3.1. They are @3x, so I assume they'll only work on X/Plus devices.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -38,7 +38,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0.1",
+          "text": "1.0",
           "class": "DepictionTableTextView"
         },
         {
