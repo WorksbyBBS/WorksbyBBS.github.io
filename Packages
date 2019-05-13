@@ -248,3 +248,20 @@ Author: b1gbangseungri
 Depiction: https://worksbybbs.github.io/depictions/whiteBWCW.html
 Name: White BWCW Respring Logo
 
+Package: io.github.worksbybbs.xeon.pebbli
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/PebbliStatusBarforXeon.deb
+Size: 2580
+MD5sum: b791077439d4ca95c24de39ab3e76f73
+SHA1: 1f4b1d009bf3ca2b72e02ea3a60ca223439b0d83
+SHA256: e77c579421e760754000f2aa9a8db142b555254600e78bd977d37eb08a0ba45e
+Section: Xeon Themes
+Description: A status bar theme for Xeon (based of Pebbli)
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/XeonPebbli.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/XeonPebbli.png
+Name: Pebbli Status Bar for Xeon
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/XeonPebbli.json
+
