@@ -35,7 +35,8 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Ink music controls. They work in the music app, LS, and CC.\r\n\r\nThese have been previously tested on iOS 9 (iPhone 6s), 11 (iPhone X), and now 12 (iPhone XS). They are @3x, so I assume they'll only work on X/Plus devices.",
+          "markdown": "Ink music controls. They work in the music app, LS, and CC.\r\n\r\nThese have been previously tested on iOS 9 (iPhone 6s), 11 (iPhone X), and now 12 (iPhone XS). They are @3x, so I assume they'll only work on X/Plus devices.
+          \r\n\r\nCurrently, these can be applied with Anemone (not version 3) if you're on iOS 9 or 11. Or iThemer (When it is publicly released)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
