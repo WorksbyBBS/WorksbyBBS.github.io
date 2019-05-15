@@ -20,6 +20,16 @@
               "accessibilityText": "Screenshot",
               "url": "https://worksbybbs.github.io/assets/images/InkMusicControls.png",
               "fullSizeURL": "https://worksbybbs.github.io/assets/images/InkMusicControls.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/InkMusicControls2.png",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/InkMusicControls2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/InkMusicControls3.png",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/InkMusicControls3.png"
             }
           ],
           "class": "DepictionScreenshotsView"
