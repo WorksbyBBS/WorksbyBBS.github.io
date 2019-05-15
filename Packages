@@ -120,10 +120,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/FlatMusicControls.deb
-Size: 17598
-MD5sum: 7142632ddab89878ca9e079d64296034
-SHA1: 0aa0c480e20173011737b48959b6b00cbf072717
-SHA256: de3bb10059eb57ec29da6249bd596cddbe606bdf076bb677819ad2a60268106e
+Size: 17244
+MD5sum: 75c1be5d4d1b0e1ea8d22e4b85d3974d
+SHA1: 55410b70b3298a73ebf43499740482514661a5e3
+SHA256: a7277be7cf68b3f649620fbe5361733d28064d6a6fe2dde78fa2d960f60ff297
 Section: Music Controls Themes (iOS 11 and 12)
 Description: Flat-looking music controls. Works in app, CC, and LS
 Author: Alo
