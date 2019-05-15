@@ -23,13 +23,13 @@
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/InkMusicControls2.png",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/InkMusicControls2.png"
+              "url": "https://worksbybbs.github.io/assets/images/InkMusicControls2.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/InkMusicControls2.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/InkMusicControls3.png",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/InkMusicControls3.png"
+              "url": "https://worksbybbs.github.io/assets/images/InkMusicControls3.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/InkMusicControls3.PNG"
             }
           ],
           "class": "DepictionScreenshotsView"
