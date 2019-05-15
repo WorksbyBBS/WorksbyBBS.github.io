@@ -71,17 +71,17 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/CompactionsCC.deb
-Size: 69542
-MD5sum: ab56ae773605a63e51b2c25ee8a92202
-SHA1: c41bcf69f1f8deb702d1587cb295c799f9a95439
-SHA256: 1461ef056c522adfea7fca6e6a735cef5d8219e6b90dc59cf71db489e06ed121
+Size: 69564
+MD5sum: 94a5bf7c1aff3241105859f7d396abc0
+SHA1: 2830514923520f88bdeadb252833ba94f180d423
+SHA256: 3866cd443eb8023a083605a01bb424dffe49caf30dc1388e02268e64d553e4a7
 Section: CC Themes (iOS 11 and 12)
 Description: Compactions Icons for the CC
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/CompactionsCC11.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/CompactionsCC.png
 Name: Compactions CC
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/CompactionsCC.json
-Icon: https://worksbybbs.github.io/assets/images/Icons/CompactionsCC.png
 
 Package: io.github.worksbybbs.constellations
 Version: 1.0.1
@@ -120,17 +120,17 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/FlatMusicControls.deb
-Size: 17228
-MD5sum: 6e07184f1306ec4c891c5aa1793557d6
-SHA1: 85a52e6ab17b4ad46225778770535bfb333c2221
-SHA256: c79c3d6bec8cbe6c40be3c6c48212cdbf6b3f713ee8b3caf77017edf9863e241
+Size: 17786
+MD5sum: c0a0a6389950bf373174a37fb8fd3ac9
+SHA1: d8d2697ecf2a65946f980a76ca74945ce490854c
+SHA256: 7c479f7332c215dc23c380bd4024a5bacc667d39849937c697b8c7e54d1f0d1f
 Section: Music Controls Themes (iOS 11 and 12)
 Description: Flat-looking music controls. Works in app, CC, and LS
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/FMC11.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/FMC.png
 Name: Flat Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/FlatMusic.json
-Icon: https://worksbybbs.github.io/assets/images/Icons/FMC.png
 
 Package: io.github.worksbybbs.gotglockglyph
 Version: 1.0.1
