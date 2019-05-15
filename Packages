@@ -169,12 +169,11 @@ Package: io.github.worksbybbs.inkmusiccontrols
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
-Depends: com.anemonetheming.anemone
 Filename: ./debs/InkMusicControls.deb
-Size: 77822
-MD5sum: 5c8e6ffc3c2c5458b0efe541cfde1b93
-SHA1: 490fb48f05d3ee513748031cca86c1d02a47769a
-SHA256: d3d8b13d8ee3c1683942affc35e52df06d5cf1b67d6307f686d10a7bc91ada79
+Size: 77798
+MD5sum: dd6c4da21ab8004c8cb5fdb2622438d2
+SHA1: 00744ed8a9ec00335379bd97980a7b3f23f2b2b3
+SHA256: f3c5838d59af6a3d50b3c3fc1a0e029a1a8c38a37b516007838ba93c8f1f519d
 Section: Music Controls Themes (iOS 11 and 12)
 Homepage: https://worksbybbs.github.io/depictions/InkMusicControls.html
 Description: An ink theme for music controls
