@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Flat Music Controls",
+          "title": "Ink Music Controls",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
