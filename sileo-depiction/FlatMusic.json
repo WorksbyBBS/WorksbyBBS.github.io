@@ -98,8 +98,7 @@
     },
     {
       "tabname": "Changelog",
-      "views": [
-        {
+      "views": [{
           "title": "1.0",
           "useBoldText": true,
           "useBottomMargin": true,
