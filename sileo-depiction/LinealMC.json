@@ -30,7 +30,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Flat-looking music controls. They work in the music app, LS, and CC.\r\n\r\nThese have been tested ONLY on iPhone X running iOS 11.3.1. They are @3x, so I assume they'll only work on X/Plus devices.",
+          "markdown": "Lineal music controls. They work in the music app, LS, and CC.\r\n\r\nThese have been tested on iOS 11.3.1 (iPhone X), and 12.1.1 (iPhone XS). They are @3x, so I assume they'll only work on X/Plus devices.\r\n\r\nCurrently, these can be applied with Anemone (not version 3) if you're on iOS 11. Or iThemer (When it is publicly released).\r\n\r\n Credit for them goes to bqlqn from flaticon.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
