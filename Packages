@@ -183,6 +183,23 @@ Icon: https://worksbybbs.github.io/assets/images/Icons/InkMusicControls.png
 Name: Ink Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/InkMusicControls.json
 
+Package: io.github.worksbybbs.linealmusiccontrols
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/LinealMusicControls.deb
+Size: 15580
+MD5sum: 761d7688125dc792471871fd5902ec30
+SHA1: 118aa5fbd5300090626587027f7ca46bc240e503
+SHA256: 9779f179c1310f904ba1d9dae051b81fc7a2ff4c5d9755bcc16876b9f665ebac
+Section: Music Controls Themes (iOS 11 and 12)
+Description: Lineal music controls. Works in app, CC, and LS
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/LinealMC.html
+Icon: https://worksbybbs.github.io/assets/images/LinealMusicControls.png
+Name: Lineal Music Controls
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealMC.json
+
 Package: io.github.worksbybbs.simplewordscc
 Version: 1.0
 Architecture: iphoneos-arm

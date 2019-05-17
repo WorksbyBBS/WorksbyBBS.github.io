@@ -55,7 +55,7 @@
           "spacing": 16,
           "class": "DepictionSpacerView"
         },
-      
+
         {
           "class": "DepictionSeparatorView"
         },
