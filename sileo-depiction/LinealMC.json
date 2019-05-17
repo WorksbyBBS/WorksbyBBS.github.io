@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/7QkFVOG.png",
-  "tintColor": "#313131",
+  "headerImage": "https://worksbybbs.github.io/assets/images/LinealMusicControls.png",
+  "tintColor": "#3c445b",
   "tabs": [
     {
       "tabname": "Details",
