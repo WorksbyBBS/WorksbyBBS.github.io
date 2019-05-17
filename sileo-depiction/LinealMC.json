@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Flat Music Controls",
+          "title": "Lineal Music Controls",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -18,8 +18,13 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://i.imgur.com/7QkFVOG.png",
-              "fullSizeURL": "https://i.imgur.com/7QkFVOG.png"
+              "url": "https://worksbybbs.github.io/assets/images/LinealMusicControls2.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealMusicControls2.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/LinealMusicControls3.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealMusicControls3.PNG"
             }
           ],
           "class": "DepictionScreenshotsView"
