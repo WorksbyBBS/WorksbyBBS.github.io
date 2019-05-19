@@ -99,6 +99,22 @@
       "tabname": "Changelog",
       "views": [
         {
+        "title": "1.0.2",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Added FlipConvert Icons: DND, Low Power, Noctis, Screen Record, Flashlight, Respring, and Rotation Lock. And Reduce White Point Module.",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "markdown": "<small style=\"color: #999; margin-top: -8px;\">Added More Icons</small>",
+        "useRawFormat": true,
+        "class": "DepictionMarkdownView"
+      },
+      {
         "title": "1.0.1",
         "useBoldText": true,
         "useBottomMargin": true,
