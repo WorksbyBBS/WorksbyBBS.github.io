@@ -200,6 +200,23 @@ Icon: https://worksbybbs.github.io/assets/images/LinealMusicControls.png
 Name: Lineal Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealMC.json
 
+Package: io.github.worksbybbs.linealui
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/LinealUI.deb
+Size: 316708
+MD5sum: 21a1b1f6aba44add96ffe8d09afb89d8
+SHA1: 420a919209d03d1bfaa43784f862e4b16899ea36
+SHA256: bee2aa6694a0038ac28bad7314b6c938f6970b35f496c050c9200ad4e1452c98
+Section: UI Themes
+Description: Lineal UI Theme.
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/LinealUI.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/LinealUI.png
+Name: Lineal UI Theme
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealUI.json
+
 Package: io.github.worksbybbs.simplewordscc
 Version: 1.0
 Architecture: iphoneos-arm
