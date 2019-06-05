@@ -1,0 +1,154 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://worksbybbs.github.io/assets/images/FlatUI.png",
+  "tintColor": "#656d6e",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Make Your Device Look a Little Bit Nicer",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI1.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI1.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI2.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI2.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI3.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI3.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI4.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI4.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI5.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI5.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI6.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI6.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI7.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI7.PNG"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "Designed to work with Flat Music Controls.\r\n\r\nIt’s made for @3x and @2x devices, but I only managed to test it on iPhone X (iOS 11.3.1) and iPhone XS (iOS 12).\r\n\r\nThemes apps and UIs such as:\r\n\r\n
+<ul><li>Safari and WebView</li><li>Phone</li><li>Music</li><li>Video Player</li><li>Sileo</li><li>Some <b>Sharesheet Icons</b> such as Copy, Print, Add to Favorites, Add to Bookmarks, Create PDF</li>
+<li>App Store</li></ul><h3>SafariPlus</h3>you will find the download icons inside the theme folder by going to the path <i>/Library/Themes/Flat UI.theme/bundles/SafariPlus.bundle</i>.\r\n\r\nHas an additional option of having smaller navigation arrows (they look nicer if you have CarPlay).\r\n\r\nYou can copy/move them to <b>/Library/Application Support/SafariPlus.bundle</b> and replace the images there (back them up first).<h3>Important Note</h3><ul><li>As of 2019-6-5, this only works with iThemer. Please don’t ask me about Snowboard or Anemone. It’s up to the developers to implement UI theming, not me.</li><li><a href=\"https://imgur.com/a/eWa1Xml\">Link to the full imgur album</a></ul>\r\n\r\nLastly, this is free. <b>Donations are always welcome</b> though if you find that you like my work.\r\n\r\n Credit for the base icons goes to Gregor Cresnar, FreePik, Pixel Buddha from flaticon.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "Alo",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/alolastmoment",
+          "class": "DepictionTableButtonView",
+          "title": "🐦 Find me on Twitter (@alolastmoment)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:bbscydia@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "✉️ Send me an email",
+          "openExternal": true
+        },
+        {
+          "action": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BBSCydia%40gmail%2ecom&lc=QA&item_name=WorksByBBS%20Repo%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a ☕️ via PayPal",
+          "openExternal": true
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://WorksByBBS.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [{
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released First Release Date</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
