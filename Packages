@@ -138,16 +138,16 @@ Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/FlatUI.deb
 Size: 211008
-MD5sum: 9b169dffed03ba171d3f426088372680
-SHA1: 3ce386e0fc250dca53ce5b92c0c09763ded57680
-SHA256: ca073ac761527e36ecf02f46279cb6aa37db07d1f3361153f81cc0ec7000c24b
+MD5sum: 2ab2cb18dc94dbad6229dc6e886c7957
+SHA1: 45b536f5b80e5a54edcf220753d50150e32d99f0
+SHA256: f68f3085f427dc0d1859e2be4cd77660788ad6e9945d09b152775d64b13cef51
 Section: UI Themes
 Description: Flat UI Theme.
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/FlatUI.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/FlatUI.png
 Name: Flat UI Theme
-Sileodepiction: https://worksbybbs.github.io/sileo-depiction/FlatlUI.json
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/FlatUI.json
 
 Package: io.github.worksbybbs.gotglockglyph
 Version: 1.0.1
