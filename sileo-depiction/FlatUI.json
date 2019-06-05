@@ -1,13 +1,13 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://worksbybbs.github.io/assets/images/FlatUI.png",
-  "tintColor": "#656d6e",
+  "headerImage": "https://worksbybbs.github.io/assets/images/LinealUI.png",
+  "tintColor": "#b8b5d8",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
         {
-          "title": "Make Your Device Look a Little Bit Nicer",
+          "title": "Lineal UI Theme",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -18,46 +18,49 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/FlatUI1.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI1.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/LinealUI1.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI1.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/FlatUI2.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI2.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/LinealUI2.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI2.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/FlatUI3.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI3.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/LinealUI3.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI3.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/FlatUI4.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI4.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/LinealUI4.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI4.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/FlatUI5.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI5.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/LinealUI5.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI5.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/FlatUI6.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI6.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/LinealUI6.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI6.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/FlatUI7.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI7.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/LinealUI7.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI7.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/LinealUI8.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI8.PNG"
             }
           ],
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Designed to work with Flat Music Controls.\r\n\r\nIt’s made for @3x and @2x devices, but I only managed to test it on iPhone X (iOS 11.3.1) and iPhone XS (iOS 12).\r\n\r\nThemes apps and UIs such as:\r\n\r\n
-<ul><li>Safari and WebView</li><li>Phone</li><li>Music</li><li>Video Player</li><li>Sileo</li><li>Some <b>Sharesheet Icons</b> such as Copy, Print, Add to Favorites, Add to Bookmarks, Create PDF</li>
-<li>App Store</li></ul><h3>SafariPlus</h3>you will find the download icons inside the theme folder by going to the path <i>/Library/Themes/Flat UI.theme/bundles/SafariPlus.bundle</i>.\r\n\r\nHas an additional option of having smaller navigation arrows (they look nicer if you have CarPlay).You can copy/move them to <b>/Library/Application Support/SafariPlus.bundle</b> and replace the images there (back them up first).<h3>Important Note</h3><ul><li>As of 2019-6-5, this only works with iThemer. Please don’t ask me about Snowboard or Anemone. It’s up to the developers to implement UI theming, not me.</li><li><a href=\"https://imgur.com/a/eWa1Xml\">Link to the full imgur album</a></ul>\r\n\r\nLastly, this is free. <b>Donations are always welcome</b> though if you find that you like my work.\r\n\r\n Credit for the base icons goes to Gregor Cresnar, FreePik, Pixel Buddha from flaticon.",
+          "markdown": "This is a UI Theme that was designed to work along with Lineal Music Controls. It themes tabs of multiple apps as shown in the screenshots. It was tested on @3x devices such as iPhone XS (iOS 12.1.1) and iPhone X (iOS 11.3.1).\r\n\r\n@2x devices were included, I just don't have any devices to see how it looks on them.<h3>Important Notes:</h3><ul><li>This needs a theming engine which supports UI theming. As of 2019-5-29, only iThemer can accomplish this. Please don't ask about other engines.</li><li>Included as well are images for SafariPlus Downloads button. You can copy/move them to /Library/Application Support/SafariPlus.bundle and replace the images there (back them up first)</li></ul>\r\n\r\nLastly, this is free. Donations are always welcome though if you find that you like my work.\r\n\r\n Credit for them goes to bqlqn from flaticon.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
