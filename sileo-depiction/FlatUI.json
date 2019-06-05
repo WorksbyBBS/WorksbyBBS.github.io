@@ -1,13 +1,13 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://worksbybbs.github.io/assets/images/LinealUI.png",
-  "tintColor": "#b8b5d8",
+  "headerImage": "https://worksbybbs.github.io/assets/images/FlatUI.png",
+  "tintColor": "#656d6e",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
         {
-          "title": "Lineal UI Theme",
+          "title": "Make Your Device Look a Little Bit Nicer",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -18,43 +18,38 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/LinealUI1.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI1.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI1.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI1.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/LinealUI2.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI2.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI2.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI2.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/LinealUI3.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI3.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI3.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI3.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/LinealUI4.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI4.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI4.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI4.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/LinealUI5.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI5.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI5.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI5.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/LinealUI6.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI6.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI6.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI6.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/LinealUI7.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI7.PNG"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/LinealUI8.PNG",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealUI8.PNG"
+              "url": "https://worksbybbs.github.io/assets/images/FlatUI7.PNG",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/FlatUI7.PNG"
             }
           ],
           "class": "DepictionScreenshotsView"
