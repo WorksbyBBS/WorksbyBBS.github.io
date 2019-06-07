@@ -151,7 +151,7 @@
             "class": "DepictionSubheaderView"
           },
           {
-            "markdown": "<ul><li>Fixed @2x Recents Icon</li><li>Added Option of another contacts icon</li><li>Clock and Notes Apps themed</li></ul>",
+            "markdown": "<ul><li>Fixed @2x Recents Icon</li><li>Added Option of another contacts icon</li><li>Clock and Notes Apps themed</li><li>More sharesheet icons themed</li></ul>",
             "useSpacing": false,
             "class": "DepictionMarkdownView"
           }
