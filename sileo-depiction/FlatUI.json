@@ -68,7 +68,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0",
+          "text": "1.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -143,7 +143,18 @@
           "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released First Release Date</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
-        }
+        },
+        {
+            "title": "1.1",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+          },
+          {
+            "markdown": "<ul><li>Fixed @2x Recents Icon</li><li>Added Option of another contacts icon</li><li>Clock and Notes Apps themed</li></ul>",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          }
       ],
       "class": "DepictionStackView"
     }
