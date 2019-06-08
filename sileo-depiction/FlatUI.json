@@ -166,7 +166,7 @@
               "class": "DepictionSubheaderView"
             },
             {
-              "markdown": "Added optional Information Icon",
+              "markdown": "\t\n\u2022 Added optional Information Icon",
               "useSpacing": false,
               "class": "DepictionMarkdownView"
             },
