@@ -68,7 +68,7 @@
         },
         {
           "title": "Version",
-          "text": "1.1",
+          "text": "1.1.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -154,7 +154,26 @@
             "markdown": "<ul><li>Fixed @2x Recents Icon</li><li>Added Option of another contacts icon</li><li>Clock and Notes Apps themed</li><li>More sharesheet icons themed</li></ul>",
             "useSpacing": false,
             "class": "DepictionMarkdownView"
-          }
+          },
+          {
+            "spacing": 16,
+            "class": "DepictionSpacerView"
+          },
+          {
+              "title": "1.1.1",
+              "useBoldText": true,
+              "useBottomMargin": true,
+              "class": "DepictionSubheaderView"
+            },
+            {
+              "markdown": "Added optional Information Icon",
+              "useSpacing": false,
+              "class": "DepictionMarkdownView"
+            },
+            {
+              "spacing": 16,
+              "class": "DepictionSpacerView"
+            }
       ],
       "class": "DepictionStackView"
     }
