@@ -85,7 +85,22 @@
           "spacing": 16,
           "class": "DepictionSpacerView"
         },
-
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "adUnitID":"ca-app-pub-4714219780298726/7875008139",
+          "adSize":"SmartBanner",
+          "class":"DepictionAdmobView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
         {
           "class": "DepictionSeparatorView"
         },
