@@ -133,14 +133,14 @@ Name: Flat Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/FlatMusic.json
 
 Package: io.github.worksbybbs.flatui
-Version: 1.1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/FlatUI.deb
-Size: 297356
-MD5sum: 3c401d169a33444ed77e094591527c3a
-SHA1: d2b6b0073171d207e0be4b74d3d7185a5fa4bc89
-SHA256: 292aca01c07a3b2bdfe5fc7bd351bd1712ad9defe011cb3583ffa6a765ed749f
+Size: 625364
+MD5sum: b816f674f4f2eff53872ade706db6fe0
+SHA1: 0a98a4c6847cdaaf5d47f2dafba13720841386cb
+SHA256: 0ec5aafdfb0d1b551d54f8e405793116b5132657da569d19fc709bdc8d1bf794
 Section: UI Themes
 Description: Flat UI Theme.
 Author: Alo

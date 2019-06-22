@@ -55,7 +55,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Designed to work with Flat Music Controls.\r\n\r\nIt’s made for @3x and @2x devices, but I only managed to test it on iPhone X (iOS 11.3.1) and iPhone XS (iOS 12).\r\n\r\nThemes apps and UIs such as:\r\n\r\n<ul><li>Safari and WebView</li><li>Phone</li><li>Music</li><li>Video Player</li><li>Sileo</li><li>Some <b>Sharesheet Icons</b> such as Copy, Print, Add to Favorites, Add to Bookmarks, Create PDF</li><li>App Store</li></ul>Has an additional option of having smaller navigation arrows (they look nicer if you have CarPlay).<h3>SafariPlus</h3>you will find the download icons inside the theme folder by going to the path <i>/Library/Themes/Flat UI.theme/bundles/SafariPlus.bundle</i>.\r\n\r\nYou can copy/move them to <b>/Library/Application Support/SafariPlus.bundle</b> and replace the images there (back them up first).<h3>Important Note</h3><ul><li>As of 2019-6-5, this only works with iThemer. Please don’t ask me about Snowboard or Anemone. It’s up to the developers to implement UI theming, not me.</li><li><a href=\"https://imgur.com/a/eWa1Xml\">Link to the full imgur album</a></li></ul>\r\n\r\nLastly, this is free. <b>Donations are always welcome</b> though if you find that you like my work.\r\n\r\n Credit for the base icons goes to Gregor Cresnar, FreePik, Pixel Buddha from flaticon.",
+          "markdown": "Designed to work with Flat Music Controls.\r\n\r\nIt’s made for @3x and @2x devices, but I only managed to test it on iPhone X (iOS 11.3.1) and iPhone XS (iOS 12).\r\n\r\nThemes apps and UIs such as:\r\n\r\n<ul><li>Safari and WebView</li><li>Phone</li><li>Music</li><li>Video Player</li><li>Sileo</li><li>Some <b>Sharesheet Icons</b> such as Copy, Print, Add to Favorites, Add to Bookmarks, Create PDF</li><li>App Store</li></ul>Has an additional option of having smaller navigation arrows (they look nicer if you have CarPlay).<h3>SafariPlus</h3>you will find the download icons inside the theme folder by going to the path <i>/Library/Themes/Flat UI.theme/bundles/SafariPlus.bundle</i>.\r\n\r\nYou can copy/move them to <b>/Library/Application Support/SafariPlus.bundle</b> and replace the images there (back them up first).<h3>Important Notes</h3><ul><li>As of 2019-6-5, this only works with iThemer. Please don’t ask me about Snowboard or Anemone. It’s up to the developers to implement UI theming, not me.</li><li><a href=\"https://imgur.com/a/eWa1Xml\">Link to the full imgur album</a></li><li><a href=\"https://imgur.com/a/Waw3rHr\">Link to an imgur album of even more screenshots</a></li></ul>\r\n\r\nLastly, this is free. <b>Donations are always welcome</b> though if you find that you like my work.\r\n\r\n Credit for the base icons goes to Gregor Cresnar, FreePik, Pixel Buddha from flaticon.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -68,7 +68,7 @@
         },
         {
           "title": "Version",
-          "text": "1.1.1",
+          "text": "1.2",
           "class": "DepictionTableTextView"
         },
         {
@@ -172,7 +172,22 @@
             {
               "spacing": 16,
               "class": "DepictionSpacerView"
-            }
+            },
+            {
+                "title": "1.2",
+                "useBoldText": true,
+                "useBottomMargin": true,
+                "class": "DepictionSubheaderView"
+              },
+              {
+                "markdown": "Themes Instagram, WhatsApp, Notes, Podcasts, InCall Screen, Messages, and contains more sharesheet icons.\t\n\u2022Contains optional Sileo New(s) Icon",
+                "useSpacing": false,
+                "class": "DepictionMarkdownView"
+              },
+              {
+                "spacing": 16,
+                "class": "DepictionSpacerView"
+              }
       ],
       "class": "DepictionStackView"
     }
