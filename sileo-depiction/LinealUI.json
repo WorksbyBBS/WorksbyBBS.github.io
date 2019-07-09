@@ -73,7 +73,7 @@
         },
         {
           "title": "Version",
-          "text": "1.1",
+          "text": "1.2",
           "class": "DepictionTableTextView"
         },
         {
@@ -133,40 +133,55 @@
     {
       "tabname": "Changelog",
       "views": [{
-          "title": "1.0",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\n\u2022 Initial Release",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released First Release Date</small>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-            "title": "1.1",
-            "useBoldText": true,
-            "useBottomMargin": true,
-            "class": "DepictionSubheaderView"
-          },
-          {
-            "markdown": "\t\n\u2022 A really big update. Just check the imgur album",
-            "useSpacing": false,
-            "class": "DepictionMarkdownView"
-          },
-          {
-            "markdown": "<small style=\"color: #999; margin-top: -8px;\">it's really a huge update</small>",
-            "useRawFormat": true,
-            "class": "DepictionMarkdownView"
-          }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
+        "title": "1.2",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Fixed icon size for @2x devices",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "spacing": 16,
+        "class": "DepictionSpacerView"
+      },
+      {
+        "title": "1.1",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 A really big update. Just check the imgur album",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "markdown": "<small style=\"color: #999; margin-top: -8px;\">it's really a huge update</small>",
+        "useRawFormat": true,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "title": "1.0",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Initial Release",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released First Release Date</small>",
+        "useRawFormat": true,
+        "class": "DepictionMarkdownView"
+      }
+    ],
+    "class": "DepictionStackView"
+  }
+],
+"class": "DepictionTabView"
 }
