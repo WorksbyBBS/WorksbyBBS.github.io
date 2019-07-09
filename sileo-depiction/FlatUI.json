@@ -68,7 +68,7 @@
         },
         {
           "title": "Version",
-          "text": "1.2.3",
+          "text": "1.2.4",
           "class": "DepictionTableTextView"
         },
         {
@@ -202,7 +202,22 @@
                 {
                   "spacing": 16,
                   "class": "DepictionSpacerView"
-                }
+                },
+                {
+                    "title": "1.2.4",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+                  },
+                  {
+                    "markdown": "\t\n\u2022 Removed pesky .DS_Store File",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+                  },
+                  {
+                    "spacing": 16,
+                    "class": "DepictionSpacerView"
+                  }
       ],
       "class": "DepictionStackView"
     }
