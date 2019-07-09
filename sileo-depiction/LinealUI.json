@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://worksbybbs.github.io/assets/images/LinealUIPoster.png",
-  "tintColor": "#275069",
+  "tintColor": "#acaaca",
   "tabs": [
     {
       "tabname": "Details",
