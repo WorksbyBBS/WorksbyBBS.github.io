@@ -128,99 +128,99 @@
     {
       "tabname": "Changelog",
       "views": [{
-          "title": "1.0",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\n\u2022 Initial Release",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released First Release Date</small>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-            "title": "1.1",
-            "useBoldText": true,
-            "useBottomMargin": true,
-            "class": "DepictionSubheaderView"
-          },
-          {
-            "markdown": "<ul><li>Fixed @2x Recents Icon</li><li>Added Option of another contacts icon</li><li>Clock and Notes Apps themed</li><li>More sharesheet icons themed</li></ul>",
-            "useSpacing": false,
-            "class": "DepictionMarkdownView"
-          },
-          {
-            "spacing": 16,
-            "class": "DepictionSpacerView"
-          },
-          {
-              "title": "1.1.1",
-              "useBoldText": true,
-              "useBottomMargin": true,
-              "class": "DepictionSubheaderView"
-            },
-            {
-              "markdown": "\t\n\u2022 Added optional Information Icon",
-              "useSpacing": false,
-              "class": "DepictionMarkdownView"
-            },
-            {
-              "spacing": 16,
-              "class": "DepictionSpacerView"
-            },
-            {
-                "title": "1.2",
-                "useBoldText": true,
-                "useBottomMargin": true,
-                "class": "DepictionSubheaderView"
-              },
-              {
-                "markdown": "\t\n\u2022 Themes Instagram, WhatsApp, Notes, Podcasts, InCall Screen, Messages, and contains more sharesheet icons.\t\n\u2022 Contains optional Sileo New(s) Icon",
-                "useSpacing": false,
-                "class": "DepictionMarkdownView"
-              },
-              {
-                "spacing": 16,
-                "class": "DepictionSpacerView"
-              },
-              {
-                  "title": "1.2.3",
-                  "useBoldText": true,
-                  "useBottomMargin": true,
-                  "class": "DepictionSubheaderView"
-                },
-                {
-                  "markdown": "\t\n\u2022 More sharesheet icons. Mail App, and CarPlay option!",
-                  "useSpacing": false,
-                  "class": "DepictionMarkdownView"
-                },
-                {
-                  "spacing": 16,
-                  "class": "DepictionSpacerView"
-                },
-                {
-                    "title": "1.2.4",
-                    "useBoldText": true,
-                    "useBottomMargin": true,
-                    "class": "DepictionSubheaderView"
-                  },
-                  {
-                    "markdown": "\t\n\u2022 Removed pesky .DS_Store File",
-                    "useSpacing": false,
-                    "class": "DepictionMarkdownView"
-                  },
-                  {
-                    "spacing": 16,
-                    "class": "DepictionSpacerView"
-                  }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
+        "title": "1.2.4",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Removed pesky .DS_Store File",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "spacing": 16,
+        "class": "DepictionSpacerView"
+      },
+      {
+        "title": "1.2.3",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 More sharesheet icons. Mail App, and CarPlay option!",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "spacing": 16,
+        "class": "DepictionSpacerView"
+      },
+      {
+        "title": "1.2",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Themes Instagram, WhatsApp, Notes, Podcasts, InCall Screen, Messages, and contains more sharesheet icons.\t\n\u2022 Contains optional Sileo New(s) Icon",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "spacing": 16,
+        "class": "DepictionSpacerView"
+      },
+      {
+        "title": "1.1.1",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Added optional Information Icon",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "spacing": 16,
+        "class": "DepictionSpacerView"
+      },
+      {
+        "title": "1.1",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "<ul><li>Fixed @2x Recents Icon</li><li>Added Option of another contacts icon</li><li>Clock and Notes Apps themed</li><li>More sharesheet icons themed</li></ul>",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "spacing": 16,
+        "class": "DepictionSpacerView"
+      },
+      {
+        "title": "1.0",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Initial Release",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released First Release Date</small>",
+        "useRawFormat": true,
+        "class": "DepictionMarkdownView"
+      }
+    ],
+    "class": "DepictionStackView"
+  }
+],
+"class": "DepictionTabView"
 }
