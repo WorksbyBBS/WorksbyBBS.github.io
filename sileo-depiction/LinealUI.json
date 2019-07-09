@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Lineal UI Theme",
+          "title": "You won't go back to stock iOS after this!",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -60,7 +60,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "This is a UI Theme that was designed to work along with Lineal Music Controls. It themes tabs of multiple apps as shown in the screenshots. It was tested on @3x devices such as iPhone XS (iOS 12.1.1) and iPhone X (iOS 11.3.1).\r\n\r\n@2x devices were included, I just don't have any devices to see how it looks on them.<h3>Important Notes:</h3><ul><li>This needs a theming engine which supports UI theming. As of 2019-5-29, only iThemer can accomplish this. Please don't ask about other engines.</li><li>Included as well are images for SafariPlus Downloads button. You can copy/move them to /Library/Application Support/SafariPlus.bundle and replace the images there (back them up first)</li></ul>\r\n\r\nLastly, this is free. Donations are always welcome though if you find that you like my work.\r\n\r\n Credit for them goes to bqlqn from flaticon.",
+          "markdown": "Designed to work with Lineal Music Controls.\r\n\r\nIt’s made for @3x and @2x devices, but I only managed to test it on iPhone X (iOS 11.3.1) and iPhone XS (iOS 12).\r\n\r\nThemes apps and UIs such as:\r\n\r\n<ul><li>InCall Screen! (First theme to do so so fully), and CarPlay!</li><li>Safari and WebView</li><li>Phone</li><li>Music</li><li>Video Player</li><li>Sileo</li><li>Some <b>Sharesheet Icons</b> such as Copy, Print, Add to Favorites, Add to Bookmarks, Create PDF</li><li>App Store</li></ul>Has additional options of having smaller navigation arrows (they look nicer if you have CarPlay), smaller keyboard icons.<h3>SafariPlus</h3>you will find the download icons inside the theme folder by going to the path <i>/Library/Themes/Flat UI.theme/bundles/SafariPlus.bundle</i>.\r\n\r\nYou can copy/move them to <b>/Library/Application Support/SafariPlus.bundle</b> and replace the images there (back them up first).<h3>Important Notes</h3><ul><li>As of June 2019, this only works with iThemer and Anemone 2.7 or 2.8. Please don’t ask me about Snowboard or other versions of Anemone. It’s up to the developers to implement UI theming, not me.</li><li><a href=\"https://imgur.com/a/eWa1Xml\">Link to (mostly) full imgur album</a></li></ul>\r\n\r\nLastly, this is free. <b>Donations are always welcome</b> though if you find that you like my work.\r\n\r\n Credit for the base icons goes to bqlqn from flaticon.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -73,7 +73,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0",
+          "text": "1.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -147,7 +147,23 @@
           "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released First Release Date</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
-        }
+        },
+        {
+            "title": "1.1",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+          },
+          {
+            "markdown": "\t\n\u2022 A really big update. Just check the imgur album",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">it's really a huge update</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+          }
       ],
       "class": "DepictionStackView"
     }

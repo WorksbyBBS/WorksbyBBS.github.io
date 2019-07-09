@@ -133,14 +133,14 @@ Name: Flat Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/FlatMusic.json
 
 Package: io.github.worksbybbs.flatui
-Version: 1.2.2
+Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/FlatUI.deb
-Size: 626378
-MD5sum: 988d6e8478032b0f0fbc25b2fef99a61
-SHA1: e0bb5ba29a6ad30c0365b87ba3fa02616b758fde
-SHA256: add6847117530a24298c8dbc80192eb36f0286b1fdd58b23b9bc80e2dbebd7a2
+Size: 747816
+MD5sum: ca99af3ef46441427fefbbc0123d6087
+SHA1: 4e1cb9feab2a835438c6f54a47086259faba7eb3
+SHA256: 94ead63205b8c12740f7c0f703e346828b36b2b76145224a812230d0aa91a5a9
 Section: UI Themes
 Description: Flat UI Theme.
 Author: Alo
@@ -218,14 +218,14 @@ Name: Lineal Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealMC.json
 
 Package: io.github.worksbybbs.linealui
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/LinealUI.deb
-Size: 316708
-MD5sum: 21a1b1f6aba44add96ffe8d09afb89d8
-SHA1: 420a919209d03d1bfaa43784f862e4b16899ea36
-SHA256: bee2aa6694a0038ac28bad7314b6c938f6970b35f496c050c9200ad4e1452c98
+Size: 1324648
+MD5sum: b25b818f01b743a1a0b2b0fcb2a2bc06
+SHA1: 496f9190a4a9c4a04b6d7b623504c9e950e02447
+SHA256: 8bd82aa2b3c3ae24f211d197cff0ad623d6f65bbc970432af273f87c84831283
 Section: UI Themes
 Description: Lineal UI Theme.
 Author: Alo
