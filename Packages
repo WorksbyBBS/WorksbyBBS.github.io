@@ -67,14 +67,14 @@ Depiction: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.ht
 Name: Color Swirl Loading Indicator
 
 Package: io.github.worksbybbs.compactionscc11
-Version: 1.0.3
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/CompactionsCC.deb
-Size: 98050
-MD5sum: 4755dfce6d6b796ef59c7b1eb63c26c2
-SHA1: 2487a164e952e7b0f7fa5730bbb77f4c390658b0
-SHA256: f02fa9446b0a48d4033e6b3857d8d6f31ab1ea806d27a26165d6a9352fecffd5
+Size: 98044
+MD5sum: cf2a28ee8bc76c6961c840f76dba334a
+SHA1: e66f106bca403db0ff26cfd44def606078b08280
+SHA256: f4911367ed89a3d2191eb09b8b329b6b16661c476b466ff1d13fda6244f3887c
 Section: CC Themes (iOS 11 and 12)
 Description: Compactions Icons for the CC
 Author: Alo
