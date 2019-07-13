@@ -99,6 +99,21 @@
       "tabname": "Changelog",
       "views": [
         {
+        "title": "1.0.3",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Added EzScreenshot, EzRespring, BackgrounderAction, PowerSelector, and CCModules Screenhot.",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "spacing": 16,
+        "class": "DepictionSpacerView"
+      },
+        {
         "title": "1.0.2",
         "useBoldText": true,
         "useBottomMargin": true,
