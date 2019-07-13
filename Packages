@@ -71,10 +71,10 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/CompactionsCC.deb
-Size: 98606
-MD5sum: 6943a8dde56fec788fe1457218b53045
-SHA1: db61cae0b0bfd2606abeabd96bf6b4f3ee6582aa
-SHA256: eb93cd091ac14795d0f222b990edc13c083ebeae93051a13cad70a45a8452522
+Size: 98050
+MD5sum: 4755dfce6d6b796ef59c7b1eb63c26c2
+SHA1: 2487a164e952e7b0f7fa5730bbb77f4c390658b0
+SHA256: f02fa9446b0a48d4033e6b3857d8d6f31ab1ea806d27a26165d6a9352fecffd5
 Section: CC Themes (iOS 11 and 12)
 Description: Compactions Icons for the CC
 Author: Alo
