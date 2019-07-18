@@ -1,0 +1,131 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://worksbybbs.github.io/assets/images/LinealCC.png",
+  "tintColor": "#a64b7b",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Change the way your CC looks!",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/LinealCC1.png",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealCC1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/LinealCC2.png",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealCC2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/LinealCC3.png",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealCC3.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "Well, here it is!\r\n\r\nLineal CC for iOS11 and 12. This is designed to work with Lineal UI and Lineal Music Controls to get the full look!\r\n\r\nThe only CC toggles themed are the ones you can see in the screenshots. It’s a mix of Apple stock CC toggles and CCModules. Animated toggles such as Lock Orientation, DND, Screen Recorder and LPM cannot be themed. Please do not ask me about them.\r\n\r\nThis was tested on iPhone XS (12.1.1) and iPhone X (11.3.1). I can’t test other devices so hopefully this looks good on them. I plan for this to theme almost all the CC toggles that CompactionsCC themes, and more if possible.\r\n\r\n<h2>IMPORTANT! READ THIS!</h2><ul><li>The WiFi and Bluetooth icons are themed using BetterCCIconsPro. I've included both files inside the theme folder, so you guys need to move them (just the images, not the entire folder) to <b>/Library/PreferenceBundles/BetterCCIcons.bundle</b> and then enable Glyph mode in the settings. I do not know any other way to theme those two icons, so please don’t ask me about it.</li><li>As of 2019-07-19, if you’re on <b>iOS 11</b>, you can use either <b>Anemone 2.7 or 2.8, or iThemer</b>. If you’re on <b>iOS 12</b>, you can only use <b>iThemer</b>.</li></ul>\r\n\r\nAs a last note, although this is free, donations are <i>very</i> welcome. I've spent a lot of effort and invested time into this for everyone. I hope it's to your liking!",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "Alo",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/alolastmoment",
+          "class": "DepictionTableButtonView",
+          "title": "🐦 Find me on Twitter (@alolastmoment)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:bbscydia@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "✉️ Send me an email",
+          "openExternal": true
+        },
+        {
+          "action": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BBSCydia%40gmail%2ecom&lc=QA&item_name=WorksByBBS%20Repo%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a ☕️ via PayPal",
+          "openExternal": true
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://WorksByBBS.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+      {
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
