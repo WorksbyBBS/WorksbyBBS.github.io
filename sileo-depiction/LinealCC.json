@@ -125,7 +125,7 @@
             "class": "DepictionSubheaderView"
           },
           {
-            "markdown": "\t\n\u2022 <ul><li>Added tons of new modules. Some of which are: FlipConvert Toggles, CCVPN, LocationService, nocturnal, PowerSelector, BegoneCIA, Blurification, Deluminator and so much more.</li><li>Optional CC top bar theme.</li></ul>",
+            "markdown": "\t\n\u2022 Added tons of new modules. Some of which are: FlipConvert Toggles, CCVPN, LocationService, nocturnal, PowerSelector, BegoneCIA, Blurification, Deluminator and so much more.\t\n\u2022 Optional CC top bar theme.",
             "useSpacing": false,
             "class": "DepictionMarkdownView"
           },
