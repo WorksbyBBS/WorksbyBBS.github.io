@@ -119,6 +119,21 @@
       "tabname": "Changelog",
       "views": [
         {
+            "title": "1.1.1",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+          },
+          {
+            "markdown": "\t\n\u2022 Fixed sizing issue for @2x devices.\t\n\u2022 Added headphones icon for top bar theme.",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+          },
+          {
+            "spacing": 20,
+            "class": "DepictionSpacerView"
+          },
+        {
             "title": "1.1",
             "useBoldText": true,
             "useBottomMargin": true,
