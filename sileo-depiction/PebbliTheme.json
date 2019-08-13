@@ -30,7 +30,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "A status bar theme based off <a href=\"https://twitter.com/BasicallyJoel\">@BasicallyJoel</a> Pebbli Theme.\r\n\r\nThis has been tested on iPhone XS running iOS 12.1.1 using SnowBoard Statusbar Extension .\r\n\r\nI assume it'll also work well for other devices. I can't test how it'll look for @2x devices though. Sorry!",
+          "markdown": "A status bar theme based off <a href=\"https://twitter.com/BasicallyJoel\">@BasicallyJoel</a> Pebbli Theme. The battery theme (to my knowledge) can be applied using SnowBoard on Notch devices only because it has issues on normal statusbar. Some said it works when using tweaks to enable X-Style statusbar.\r\n\r\nThis has been tested on iPhone XS running iOS 12.1.1 using SnowBoard Statusbar Extension.\r\n\r\n I assume it'll also work well for other devices. I can't test how it'll look for @2x devices though. Sorry!",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -43,7 +43,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0",
+          "text": "1.1,
           "class": "DepictionTableTextView"
         },
         {
@@ -103,6 +103,21 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added Optional Battery Theme.\t\n\u2022 Fixed @2x size issues.",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
         {
           "title": "1.0",
           "useBoldText": true,

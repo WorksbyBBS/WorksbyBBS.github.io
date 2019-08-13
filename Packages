@@ -252,14 +252,14 @@ Name: Lineal UI Theme
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealUI.json
 
 Package: io.github.worksbybbs.pebblitheme
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/PebbliStatusBarTheme.deb
-Size: 3018
-MD5sum: 1239446fd38fd8bdd07d1adbe9e22e0f
-SHA1: fc217ee2111592ec60c8df5a0dcc0de41d516b0f
-SHA256: cec803bece929ad18e473c74355b0570714aeb1019128f95f63acc3e9e2f2cd5
+Size: 8914
+MD5sum: 882537f11472067a6cbe8a2dd7ad8bf4
+SHA1: e5afb923d8e13bd6f850e49ed9c4069d3f986949
+SHA256: 97466cffef45d16e1e601afb630dfdcf8326a59558fd61e7d7dca38b34f43283
 Section: Statusbar Themes (iOS 11 and 12)
 Description: A status bar theme (based of Pebbli)
 Author: Alo
