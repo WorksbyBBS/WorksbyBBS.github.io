@@ -235,14 +235,14 @@ Name: Lineal Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealMC.json
 
 Package: io.github.worksbybbs.linealui
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/LinealUI.deb
-Size: 1343116
-MD5sum: 7d81a097bb6287048ac231c84f6f5413
-SHA1: 6cc3987a2d9e0ba473c22895efbf6c00fb2eb52d
-SHA256: f9d00212fce5b832f35ad0070834e916390534812491c1f5f9abb6554dfa4983
+Size: 1342940
+MD5sum: 1373636abcecff295f1125203e30ce2e
+SHA1: 74f5058f18e20a6c96110b4a403aae4b3f2bbca6
+SHA256: 0d5fe3bc367672549052f5f2e262f2208ea12763236497c1a817da4248338702
 Section: UI Themes
 Description: Lineal UI Theme.
 Author: Alo

@@ -73,7 +73,7 @@
         },
         {
           "title": "Version",
-          "text": "1.2",
+          "text": "1.3",
           "class": "DepictionTableTextView"
         },
         {
@@ -133,6 +133,21 @@
     {
       "tabname": "Changelog",
       "views": [{
+        "title": "1.3",
+        "useBoldText": true,
+        "useBottomMargin": true,
+        "class": "DepictionSubheaderView"
+      },
+      {
+        "markdown": "\t\n\u2022 Fixed LS icons for XR devices",
+        "useSpacing": false,
+        "class": "DepictionMarkdownView"
+      },
+      {
+        "spacing": 16,
+        "class": "DepictionSpacerView"
+      },
+        {
         "title": "1.2",
         "useBoldText": true,
         "useBottomMargin": true,
