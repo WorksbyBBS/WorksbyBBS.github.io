@@ -104,6 +104,21 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added battery theme.\t\n\u2022 Fixed 2x size issue.",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
           "title": "1.0",
           "useBoldText": true,
           "useBottomMargin": true,
