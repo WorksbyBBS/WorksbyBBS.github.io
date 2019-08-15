@@ -224,21 +224,25 @@
                         <div class="col-md-6 form-group">
                             <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label form-input is-upgraded"
                                  data-upgraded=",MaterialTextfield">
-                                <input class="mdl-textfield__input" type="text" placeholder="Your Name" id="name" name="name" required data-validation-required-message="Please enter your name.">
+                                <input class="mdl-textfield__input" type="text" placeholder="Your Name" id="name"
+                                       name="name" required data-validation-required-message="Please enter your name.">
 
                             </div>
                         </div>
                         <div class="col-md-6 form-group">
                             <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label form-input is-upgraded"
                                  data-upgraded=",MaterialTextfield">
-                                <input class="mdl-textfield__input" type="text" placeholder="Your Email Address" id="email"
-                                       name="_replyto" required data-validation-required-message="Please enter your email address.">
+                                <input class="mdl-textfield__input" type="text" placeholder="Your Email Address"
+                                       id="email"
+                                       name="_replyto" required
+                                       data-validation-required-message="Please enter your email address.">
                             </div>
                         </div>
                         <div class="col-12 form-group">
                             <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label form-input is-upgraded"
                                  data-upgraded=",MaterialTextfield">
-                            <textarea class="mdl-textfield__input" rows="2" placeholder="Your Message" id="message" name="message"
+                            <textarea class="mdl-textfield__input" rows="2" placeholder="Your Message" id="message"
+                                      name="message"
                                       required data-validation-required-message="Please enter a message."></textarea>
                             </div>
                         </div>
@@ -246,8 +250,10 @@
                     <div class="row mt-4 mr-5 ml-5">
                         <div class="col-12 text-center">
                             <button class="mdl-button mdl-js-button  btn btn-success btn-pill btn-gradient contact-submit"
-                                    data-upgraded=",MaterialButton,MaterialRipple" type="submit" value="send">Submit<span
-                                    class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span></button>
+                                    data-upgraded=",MaterialButton,MaterialRipple" type="submit" value="send">
+                                Submit<span
+                                    class="mdl-button__ripple-container"><span class="mdl-ripple"></span></span>
+                            </button>
                         </div>
                     </div>
                 </form>
@@ -1013,27 +1019,29 @@
         }
     });
 
-    $( ".carousel .carousel-inner" ).swipe( {
-        swipeLeft: function ( event, direction, distance, duration, fingerCount ) {
-            this.parent( ).carousel( 'next' );
-        },
-        swipeRight: function ( ) {
-            this.parent( ).carousel( 'prev' );
-        },
-        threshold: 0,
-        tap: function(event, target) {
-            // get the location: in my case the target is my link
-            window.location = $(this).find('.carousel-item.active a').attr('href');
-        },
-        //เอา  a ออกถ้าต้องการให้ slide ที่เป็น tag a สามารถคลิกได้
-        excludedElements:"label, button, input, select, textarea, .noSwipe"
-    } );
+    $(".carousel .carousel-inner")
+        .swipe({
+            swipeLeft: function (event, direction, distance, duration, fingerCount) {
+                this.parent().carousel('next');
+            },
+            swipeRight: function () {
+                this.parent().carousel('prev');
+            },
+            threshold: 0,
+            tap: function (event, target) {
+                // get the location: in my case the target is my link
+                window.location = $(this).find('.carousel-item.active a').attr('href');
+            },
+            //เอา  a ออกถ้าต้องการให้ slide ที่เป็น tag a สามารถคลิกได้
+            excludedElements: "label, button, input, select, textarea, .noSwipe"
+        });
+    
 
     $('.carousel .carousel-inner').on('dragstart', 'a', function () {
         return false;
     });
 
-    });
+
 
 
 </script>
