@@ -2,98 +2,158 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Pebbli Status Bar Theme</title>
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!-- Meta Description Tag -->
+    <meta name="Description" content="Alo's Repo">
+    <!-- Favicon Icon -->
+    <link rel="icon" type="image/x-icon" href="../favicon.png"/>
 
-    <!-- jQuery library -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Animteheading Stylesheet CSS -->
+    <link rel="stylesheet" href="../assets/plugin/animateheading/animateheading.min.css"/>
 
-    <!-- Latest compiled JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- Animate Stylesheet CSS -->
+    <link rel="stylesheet" href="../assets/plugin/animate/animate.min.css"/>
 
-    <link rel="stylesheet" href="../font-awesome/css/font-awesome.min.css">
-    <meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport">
-    <meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
-
-    <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
-          type="text/css">
-    <link href="../assets/css/depic.css" rel="stylesheet" type="text/css">
+    <!-- Flex Slider Stylesheet CSS -->
+    <link rel="stylesheet" href="../assets/plugin/flexslider/flexslider.min.css"/>
+    <link rel="stylesheet" href="../assets/icons/font-awesome/css/fontawesome-all.min.css"/>
+    <script src="https://unpkg.com/scrollnav@3.0.1/dist/scrollnav.min.umd.js"></script>
+    <!-- Custom Main Stylesheet CSS -->
+    <link rel="stylesheet" href="../dist/css/style-lightgreen.css">
+    <style>
+        body {
+            background-color: rgba(225, 225, 225, 0);
+        }
+    </style>
 </head>
+
 <body>
-<div class="container">
-    <div id="description">
-        <ul class="list-group">
-            <li class="list-group-item" id="descTitle">
-                <h2>Description</h2></li>
+<div class="container-fluid">
+    <br>
+    <div id="description" class="panel panel-default panel-primary">
+        <div class="panel-head">
+            <div class="panel-title">
+                <i class="panel-head-icon fa fa-align-center"></i>
+                <h2 class="panel-title-text">Description</h2>
+            </div>
+        </div>
+        <div class="panel-body">
+            <p> A status bar theme based off <a class="text-success" href="https://twitter.com/BasicallyJoel">@BasicallyJoel</a> Pebbli Theme.</p>
+            <p>The battery theme (to my knowledge) can be applied using SnowBoard on Notch devices only because it has issues on normal statusbar. Some said it works when using tweaks to enable X-Style statusbar.</p>
+            <p>This has been tested on iPhone XS running iOS 12.1.1 using SnowBoard Statusbar Extension. I assume it'll also work well for other devices. </p>
 
-            <li class="list-group-item">
-                <p> A status bar theme based off <a href="https://twitter.com/BasicallyJoel">@BasicallyJoel</a> Pebbli Theme.</p>
-                <p>The battery theme (to my knowledge) can be applied using SnowBoard on Notch devices only because it has issues on normal statusbar. Some said it works when using tweaks to enable X-Style statusbar.</p>
-                <p>This has been tested on iPhone XS running iOS 12.1.1 using SnowBoard Statusbar Extension. I assume it'll also work well for other devices. </p>
-            </li>
-        </ul>
+        </div>
     </div>
 
-    <div id="screenshots">
-        <ul class="list-group">
-            <li class="list-group-item" id="shotsTitle">
-                <h2>Screenshots</h2>
-            </li>
-            <li class="list-group-item">
-                <img src="../assets/images/PebbliTheme.png" alt="PebbliTheme" class="img-responsive center-block">
-            </li>
-        </ul>
+    <div class="panel panel-default panel-primary">
+        <div class="panel-head">
+            <div class="panel-title">
+                <i class="panel-head-icon fa fa-images"></i>
+                <h2 class="panel-title-text">Screenshots</h2>
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="theme-accordion-container">
+                <div class="theme-accordion">
+                    <div class="theme-accordion-hdr">
+                        <h3 class="text-primary">Click to view screenshots</h3>
+                        <div class="theme-accordion-control"><i class="fa fa-plus"></i></div>
+                    </div>
+                    <div class="theme-accordion-bdy">
+                        <p><img src="../assets/images/PebbliTheme.png" alt="" class="img-fluid img-centered">
+                        </p>
+                        <p><img src="../assets/images/PebbliTheme1.png" alt="" class="img-fluid img-centered">
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <div id="changelog">
-        <ul class="list-group">
-            <li class="list-group-item" id="changelogTitle">
-                <h2>changelog</h2>
-            </li>
-            <li class="list-group-item">
-                <h3>1.1</h3>
-            </li>
-            <li class="list-group-item">
-                <p>Added Optional Battery Theme.</p>
-            </li>
-            <li class="list-group-item">
-                <p>Fixed @2x size issues.</p>
-            </li>
-            <li class="list-group-item">
-                <h3>1.0</h3>
-            </li>
-            <li class="list-group-item">
-                <p>Initial Release</p>
-            </li>
-        </ul>
+
+    <div class="panel panel-default panel-primary">
+        <div class="panel-head">
+            <div class="panel-title">
+                <i class="panel-head-icon fa fa-clock"></i>
+                <h2 class="panel-title-text">Changelog</h2>
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="theme-accordion-container">
+                <div class="theme-accordion">
+                    <div class="theme-accordion-hdr">
+                        <h3 class="text-primary">Version 1.1</h3>
+                        <div class="theme-accordion-control"><i class="fa fa-plus"></i></div>
+                    </div>
+                    <div class="theme-accordion-bdy">
+                        <ul>
+                            <li>Added Optional Battery Theme.
+                            </li>
+                            <li>Fixed @2x size issue</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="theme-accordion">
+                    <div class="theme-accordion-hdr">
+                        <h3 class="text-primary">Version 1.0</h3>
+                        <div class="theme-accordion-control"><i class="fa fa-plus"></i></div>
+                    </div>
+                    <div class="theme-accordion-bdy">
+                        <ul>
+                            <li>Release</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
     </div>
 
-    <div id="paypal-link">
-        <ul class="list-group">
-            <li class="list-group-item" id="paypalTitle">
-                <h2>If You Like My Work...</h2></li>
-            <li class="list-group-item">
-                <p>
-                    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BBSCydia%40gmail%2ecom&lc=QA&item_name=WorksByBBS%20Repo%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest"
-                       target="_blank" role="button"><i class="fa fa-paypal" aria-hidden="true"></i> Consider buying me
-                        a
-                        coffee</a></p>
-            </li>
-        </ul>
+
+    <div id="paypal-link" class="panel panel-default panel-primary">
+        <div class="panel-head">
+            <div class="panel-title">
+                <h2 class="panel-title-text"><a class="text-default"
+                                                href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BBSCydia%40gmail%2ecom&lc=QA&item_name=WorksByBBS%20Repo%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest"
+                                                target="_blank" role="button"><i
+                        class="panel-head-icon fab fa-cc-paypal"></i> If You Like My Work, Consider Buying me a
+                    Coffee</a></h2>
+            </div>
+        </div>
     </div>
 
-    <div id="additional-links">
-        <ul class="list-group">
-            <li class="list-group-item" id="linksTitle">
-                <h2>Links</h2></li>
-            <li class="list-group-item">
-                <p><a href="https://www.reddit.com/user/b1gbangseungri" target="_blank" role="button"><i
-                        class="fa fa-reddit-alien" aria-hidden="true"></i> My Reddit Account</a></p>
-            </li>
-        </ul>
+    <div id="additional-links" class="panel panel-default panel-primary">
+        <div class="panel-head">
+            <div class="panel-title">
+                <h2 class="panel-title-text">Social Media</h2>
+            </div>
+        </div>
+        <div class="panel-body">
+            <h3><a class="text-default" href="https://www.twitter.com/alolastmoment"
+                   target="_blank" role="button"><i class="fab fa-twitter"></i> My Twitter Account</a>
+            </h3>
+            <div class="side-panel-separator"></div>
+            <h3>
+                <a class="text-default" href="https://www.reddit.com/user/b1gbangseungri"
+                   target="_blank" role="button"><i class="fab fa-reddit"></i> My Reddit Account</a>
+            </h3>
+        </div>
     </div>
+    <br>
 </div>
+<!-- Jquery Library 2.1 JavaScript-->
+<script src="../assets/plugin/jquery/jquery-2.1.4.min.js"></script>
 
+<!-- Bootstrap Core JavaScript-->
+<script src="../assets/plugin/bootstrap/bootstrap.min.js"></script>
+
+
+<!-- Flexslider Plugin JavaScript-->
+<script src="../assets/plugin/flexslider/jquery.flexslider.min.js"></script>
+<!-- Owl Carousel Plugin JavaScript-->
+<script src="../assets/plugin/owl_carousel/owl.carousel.min.js"></script>
+
+
+<!--Custom JavaScript-->
+<script src="../dist/js/custom.js"></script>
 </body>
 </html>
