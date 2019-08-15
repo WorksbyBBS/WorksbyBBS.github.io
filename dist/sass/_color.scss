@@ -1,0 +1,181 @@
+.text-primary {
+	color: $color-primary-0!important;
+}
+
+.text-secondary {
+	color: $color-secondary!important;
+}
+
+.text-white {
+    color: $colorF!important;
+}
+
+.text-less-white {
+    color: $colorE!important;
+}
+
+.text-lesser-white {
+    color: $colorD!important;
+}
+
+.text-blue {
+    color: $color-blue!important;
+}
+
+.text-green {
+    color: $color-green!important;
+}
+
+.text-orange {
+    color: $color-orange!important;
+}
+
+.text-red {
+    color: $color-danger!important;
+}
+
+.text-purple {
+    color: $color-purple!important;
+}
+
+.text-black {
+    color: $color3!important;
+}
+
+.text-dark {
+    color: $color5!important;
+}
+
+.text-less-dark {
+    color: $color7!important;
+}
+
+.text-lesser-dark {
+    color: $color9!important;
+}
+
+.text-light {
+    color: $color7!important;
+}
+
+
+/* [ BACKGROUND CSS START ] */
+.bg-light {
+    background-color: #fafafa;
+}
+
+.bg-primary {
+    background-color: $color-primary-rgb !important;
+}
+
+.bg-primary-1 {
+    background-color: $color-primary-1 !important;
+}
+
+.bg-primary-2 {
+    background-color: $color-primary-2 !important;
+}
+
+.bg-primary-3 {
+    background-color: $color-primary-3 !important;
+}
+
+.bg-primary-4 {
+    background-color: $color-primary-4 !important;
+}
+
+.bg-secondary {
+    background-color: $color-secondary-0 !important;
+}
+
+.bg-success {
+    background-color: $color-success-rgb !important;
+}
+
+.bg-warning {
+    background-color: $color-warning-rgb !important;
+}
+
+.bg-danger {
+    background-color: $color-danger-rgb !important;
+}
+
+.bg-info {
+    background-color: $color-info-rgb !important;
+}
+
+.bg-dark {
+    background-color: $color5 !important;
+}
+
+.bg-gradient {
+    background: linear-gradient(to left, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0.25));
+}
+
+
+
+/* [ BADGE CSS START ] */
+.badge {
+    padding: 0.4em .8em;
+    font-size: 100%;
+    letter-spacing: .5px;
+    vertical-align: baseline;
+    font-weight: 500;
+}
+
+.badge-sm {
+    font-size: 80%;
+    padding: 0.6em .8em;
+}
+
+.badge-default {
+    background-color: $colorD;
+}
+
+.badge-white {
+    color: $color3;
+    background-color: $colorF;
+}
+
+.badge-primary {
+    background-color: $color-primary;
+}
+
+.badge-secondary {
+    background-color: $color-secondary-0;
+}
+
+.badge-success {
+    background-color: $color-success;
+}
+
+.badge-warning {
+    background-color: $color-warning;
+}
+
+.badge-danger {
+    background-color: $color-danger;
+}
+
+.badge-info {
+    background-color: $color-info;
+}
+
+.badge-light {
+    color: $color3;
+    background-color: $colorF;
+    border: 1px solid $colorE;
+}
+
+.badge-dark {
+    background-color: $color-dark;
+}
+
+.nav-pills .nav-item.show .nav-link, .nav-pills .nav-link.active {
+    cursor: default;
+    background-color: $color-primary-0;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: $color-primary-0;
+}

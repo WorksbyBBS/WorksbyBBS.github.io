@@ -1,0 +1,27 @@
+$color-primary-0: #009686;	// Main Primary color */
+$color-primary-1: #42B2A6;
+$color-primary-2: #20A294;
+$color-primary-3: #00776A;
+$color-primary-4: #005D53;
+
+
+
+// As RGBa codes */
+
+$rgba-primary-0: rgba(  0,150,134,1);	// Main Primary color */
+$rgba-primary-1: rgba( 66,178,166,1);
+$rgba-primary-2: rgba( 32,162,148,1);
+$rgba-primary-3: rgba(  0,119,106,1);
+$rgba-primary-4: rgba(  0, 93, 83,1);
+
+
+$color-primary-rgba-60: rgba(0,150,134, .60);
+$color-primary-rgb: rgb(0,150,134);
+
+$coloredBackground: rgba(0,150,134, .8);
+$gradientColor: linear-gradient(-90deg,rgba(0, 93, 83, 1),rgba(0,150,134, 1));
+$gradientBackground: linear-gradient(-90deg,rgba(0, 93, 83, .8),rgba(0,150,134, .8));
+$color-primary-4-rgba-80: rgba(0, 93, 83,.8);
+
+$color-secondary-0: #cd0fd8;
+$color-secondary-0-rgba: rgba(205, 15, 216, .9);

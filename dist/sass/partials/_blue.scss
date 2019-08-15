@@ -1,0 +1,30 @@
+//*************************************************
+// Blue Theme Color Code **************************
+//************************************************/
+
+$color-primary-0: #3483FF;	// Main Primary color */
+$color-primary-1: #E0ECFF;
+$color-primary-2: #77ACFF;
+$color-primary-3: #0A60EA;
+$color-primary-4: #063176;
+
+
+// As RGBa codes */
+$rgba-primary-0: rgba( 52,131,255,1);	// Main Primary color */
+$rgba-primary-1: rgba(224,236,255,1);
+$rgba-primary-2: rgba(119,172,255,1);
+$rgba-primary-3: rgba( 10, 96,234,1);
+$rgba-primary-4: rgba(  6, 49,118,1);
+
+
+$color-primary-rgba-60: rgba(52,131,255, .60);
+$color-primary-rgb: rgb(52,131,255);
+
+
+$coloredBackground: rgba(52,131,255, .8);
+$gradientColor: linear-gradient(-90deg,rgba(6, 49,118,1), rgba(52,131,255,1));
+$gradientBackground: linear-gradient(-90deg,rgba(36, 49,118,.8), rgba(52,131,255,.8));
+$color-primary-4-rgba-80: rgba(1, 82, 89,.8);
+
+$color-secondary-0: #cd0fd8;
+$color-secondary-0-rgba: rgba(205, 15, 216, .9);

@@ -1,0 +1,408 @@
+.table {
+	margin-bottom: 0;
+
+	thead, tbody, tfoot {
+		tr {
+			th,td {
+				padding: 14px 8px; 
+			}
+		}
+	}
+	th {
+		padding: 16px 8px; 
+		font-weight: 500;
+	}
+
+	tbody {
+		color: $color7;
+	}
+}
+
+.table-dark {
+
+	tbody {
+		color: $colorC;
+	}
+}
+
+.table-striped {
+	tbody tr:nth-of-type(odd) {
+		background-color: #f3f5f7; 
+	}
+}
+
+.table-hover {
+	tbody {
+		tr {
+			&:hover {
+				background-color: #f3f5f7;
+			}
+		}
+	}
+}
+
+.table-head-bg {
+
+	thead {
+		tr {
+			th {
+				color: $colorF;
+				border: 0;
+			}
+		}
+	}
+}
+
+.table-head-bg.table-head-primary {
+	thead {
+		tr {
+			th {
+				background-color: $color-primary;
+			}
+		}
+	}
+}
+
+.table-head-bg.table-head-secondary {
+	thead {
+		tr {
+			th {
+				background-color: $color-secondary;
+			}
+		}
+	}
+}
+
+.table-head-bg.table-head-success {
+	thead {
+		tr {
+			th {
+				background-color: $color-success;
+			}
+		}
+	}
+}
+
+.table-head-bg.table-head-danger {
+	thead {
+		tr {
+			th {
+				background-color: $color-danger;
+			}
+		}
+	}
+}
+
+.table-head-bg.table-head-warning {
+	thead {
+		tr {
+			th {
+				background-color: $color-warning;
+			}
+		}
+	}
+}
+
+.table-head-bg.table-head-info {
+	thead {
+		tr {
+			th {
+				background-color: $color-info;
+			}
+		}
+	}
+}
+
+.table-head-bg.table-head-dark {
+	thead {
+		tr {
+			th {
+				background-color: $color-dark;
+			}
+		}
+	}
+}
+
+.table-bordered-primary {
+	border: 2px solid $color-primary;
+}
+
+.table-bordered-secondary {
+	border: 2px solid $color-secondary;
+}
+
+.table-bordered-success {
+	border: 2px solid $color-success;
+}
+
+.table-bordered-danger {
+	border: 2px solid $color-danger;
+}
+
+.table-bordered-warning {
+	border: 2px solid $color-warning;
+}
+
+.table-bordered-info {
+	border: 2px solid $color-info;
+}
+
+.table-bordered-dark {
+	border: 2px solid $color-dark;
+}
+
+.table-primary,
+.table-secondary,
+.table-success,
+.table-danger, 
+.table-warning,
+.table-info {
+	tbody, thead {
+		tr {
+			th {
+				color: $colorF;
+			}
+			td {
+				color: $colorE; 
+			}
+		}
+	}
+}
+
+.table-primary {
+	background-color: $color-primary;
+}
+
+.table-secondary {
+	color: $colorF;
+	background-color: $color-secondary;
+}
+
+.table-success {
+	color: $colorF;
+	background-color: $color-success;
+}
+
+.table-danger {
+	color: $colorF;
+	background-color: $color-danger;
+}
+
+.table-warning {
+	color: $colorF;
+	background-color: $color-warning;
+}
+
+.table-info {
+	color: $colorF;
+	background-color: $color-info;
+}
+
+.table-dark {
+	color: $colorF;
+	background-color: $color-dark;
+}
+
+.table-head-separator-primary {
+	
+	thead {
+		tr {
+			th {
+				border-bottom: 2px solid $color-primary;
+			}
+		}
+	}
+}
+
+.table-head-separator-secondary {
+
+	thead {
+		tr {
+			th {
+				border-bottom: 2px solid $color-secondary;
+			}
+		}
+	}
+}
+
+.table-head-separator-success {
+
+	thead {
+		tr {
+			th {
+				border-bottom: 2px solid $color-success;
+			}
+		}
+	}
+}
+
+.table-head-separator-danger {
+
+	thead {
+		tr {
+			th {
+				border-bottom: 2px solid $color-danger;
+			}
+		}
+	}
+}
+
+.table-head-separator-warning {
+
+	thead {
+		tr {
+			th {
+				border-bottom: 2px solid $color-warning;
+			}
+		}
+	}
+}
+
+.table-head-separator-info {
+
+	thead {
+		tr {
+			th {
+				border-bottom: 2px solid $color-info;
+			}
+		}
+	}
+}
+
+.table-head-separator-dark {
+
+	thead {
+		tr {
+			th {
+				border-bottom: 2px solid $color-dark;
+			}
+		}
+	}
+}
+
+.table-bordered {
+	thead {
+		tr {
+			th {
+				border: 1px solid $colorD;
+				border-bottom: 2px solid $colorD;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			td {
+				border: 1px solid $colorD;
+			}
+		}
+	}
+}
+
+.table-bordered.table-bordered-primary {
+	thead {
+		tr {
+			th {
+				border-color: $color-primary;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			td {
+				border-color: $color-primary;
+			}
+		}
+	}
+}
+
+.table-bordered.table-bordered-success {
+	thead {
+		tr {
+			th {
+				border-color: $color-success;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			td {
+				border-color: $color-success;
+			}
+		}
+	}
+}
+
+.table-bordered.table-bordered-danger {
+	thead {
+		tr {
+			th {
+				border-color: $color-danger;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			td {
+				border-color: $color-danger;
+			}
+		}
+	}
+}
+
+.table-bordered.table-bordered-warning {
+	thead {
+		tr {
+			th {
+				border-color: $color-warning;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			td {
+				border-color: $color-warning;
+			}
+		}
+	}
+}
+
+.table-bordered.table-bordered-info {
+	thead {
+		tr {
+			th {
+				border-color: $color-info;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			td {
+				border-color: $color-info;
+			}
+		}
+	}
+}
+
+.table-bordered.table-bordered-dark {
+	thead {
+		tr {
+			th {
+				border-color: $color-dark;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			td {
+				border-color: $color-dark;
+			}
+		}
+	}
+}

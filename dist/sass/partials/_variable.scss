@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500');
+@import url('https://fonts.googleapis.com/css?family=Dosis:500,700');
+//Font-Faimily
+$font: 'Poppins', sans-serif;
+$fontHeading: "Dosis", 'Poppins', sans-serif;
+
+
+//Background Color
+$bodyColor: #FAFAFA;
+
+@import "purple";
+@import "lightgreen";
+@import "green";
+@import "indigo";
+@import "brown";
+@import "orange";
+@import "chocolate";
+@import "navy";
+@import "turquoise";
+@import "pink";
+@import "lightred";
+@import "red";
+@import "blue";
+@import "yellow";
+@import "teal";
+
+
+
+//Theme Color
+$color-default: #DDD;
+$color-blue: #32C1CE;
+$color-green: #54C798;
+$color-orange: #EfA752;
+$color-purple: #A675D4;
+$color-red: #cc5151;
+
+
+$color-primary: $color-primary-0;
+$color-secondary: $color-secondary-0;
+$color-warning: #fec107;
+$color-danger: #fb9678;
+$color-info: #03a9f3;
+$color-light: #EEE;
+$color-dark: #555;
+$color-success: #0bc36e;
+$color-white: #fff;
+$color-black: #222;
+
+
+$color-secondary-rgba-60: rgba(238, 238, 238, .60);
+$color-warning-rgba-60: rgba(254, 193, 7, .60);
+$color-danger-rgba-60: rgba(251, 150, 120, .60);
+$color-info-rgba-60: rgba(3, 169, 243, .60);
+$color-light-rgba-60: rgba(238, 238, 238, .60);
+$color-dark-rgba-60: rgba(85, 85, 85, .60);
+$color-success-rgba-60: rgba(11, 195, 110, .60);
+
+
+$color-secondary-rgb: rgb(238, 238, 238);
+$color-warning-rgb: rgb(254, 193, 7);
+$color-danger-rgb: rgb(251, 150, 120);
+$color-info-rgb: rgb(3, 169, 243);
+$color-light-rgb: rgb(238, 238, 238);
+$color-dark-rgb: rgb(85, 85, 85);
+$color-success-rgb: rgb(11, 195, 110);
+
+
+// Color Code 
+$colorF: #FFF;
+$colorE: #EEE;
+$colorC: #CCC;
+$colorD: #DDD;
+$colorA: #AAA;
+$color9: #999;
+$color7: #777;
+$color5: #555;
+$color3: #333;
+
+//Font Code
+$smallFont: 12px;
+$sMediumFont: 14px;
+$mediumFont: 16px;
+$largeFont: 20px;
+$xlargeFont: 24px;

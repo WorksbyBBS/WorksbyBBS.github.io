@@ -1,0 +1,29 @@
+//*************************************************
+// Red Theme Color Code ***************************
+//************************************************/
+
+$color-primary-0: #F91941;	// Main Primary color */
+$color-primary-1: #FB738B;
+$color-primary-2: #FA4465;
+$color-primary-3: #F8002C;
+$color-primary-4: #DC0027;
+
+// As RGBa codes */
+$rgba-primary-0: rgba(249, 25, 65,1);	// Main Primary color */
+$rgba-primary-1: rgba(251,115,139,1);
+$rgba-primary-2: rgba(250, 68,101,1);
+$rgba-primary-3: rgba(248,  0, 44,1);
+$rgba-primary-4: rgba(220,  0, 39,1);
+
+
+$color-primary-rgba-60: rgba(249, 25, 65, .60);
+$color-primary-rgb: rgb(249, 25, 65);
+
+
+$coloredBackground: rgba(249, 25, 65, .8);
+$gradientColor: linear-gradient(-90deg,rgba(220,  0, 39,1), rgba(249, 25, 65,1));
+$gradientBackground: linear-gradient(-90deg,rgba(220,  0, 39,.8), rgba(249, 25, 65,.8));
+$color-primary-4-rgba-80: rgba(220,  0, 39,.8);
+
+$color-secondary-0: #cd0fd8;
+$color-secondary-0-rgba: rgba(205, 15, 216, .9);
