@@ -251,6 +251,38 @@ Icon: https://worksbybbs.github.io/assets/images/Icons/LinealUI.png
 Name: Lineal UI Theme
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealUI.json
 
+Package: io.github.worksbybbs.nicebarxflat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/NiceBarXFlatIcons.deb
+Size: 9136
+MD5sum: 81152b2c19885460160a613edcce7c9f
+SHA1: 4fd5d5426f3c6814c0f154a468f2cc700321d093
+SHA256: de536aa7247662c4dc072f6c744d0a8f7598a9bd20003d51e74f39e46e6f4cac
+Section: NiceBarX Themes
+Description: NiceBarX Flat Icons
+Depiction: https://worksbybbs.github.io/depictions/NiceBarXFlat.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/NiceBarXFlat.png
+Name: NiceBarX Flat Icons
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/NiceBarXFlat.json
+
+Package: io.github.worksbybbs.nicebarxlineal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/NiceBarXLinealIcons.deb
+Size: 20232
+MD5sum: ed6fec0a6815daef428e080940101e01
+SHA1: 78bd85b4beadc407218cc8b7a5c60322556a483d
+SHA256: efdc216343e3addaba5a7d94a3158d8eea7a25fc00cdf1765d5c6da5e1ca1b4c
+Section: NiceBarX Themes
+Description: NiceBarX Lineal Icons
+Depiction: https://worksbybbs.github.io/depictions/NiceBarXLineal.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/NiceBarXLineal.png
+Name: NiceBarX LinealIcons
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/NiceBarXLineal.json
+
 Package: io.github.worksbybbs.pebblitheme
 Version: 1.1
 Architecture: iphoneos-arm

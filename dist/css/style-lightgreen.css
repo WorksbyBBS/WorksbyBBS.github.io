@@ -8825,7 +8825,8 @@ body {
   margin: 0; }
   .menu ul {
     margin: 0;
-    padding: 0; }
+    padding: 0;
+    }
   .menu li li {
     position: relative;
     margin: 0;
@@ -11811,3 +11812,14 @@ body {
     padding: 20px 0; }
     .footer-block:nth-child(2) {
       padding: 20px 0; } }
+
+
+.tutorialDiv{
+  display:block;
+}
+.tutorialDivChild {
+  margin:auto;
+  padding-top:40%;
+  vertical-align:middle;
+}
+

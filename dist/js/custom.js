@@ -58,7 +58,7 @@
     //ResponsiveMenu  *********************************
     //*************************************************
     
-    /*$('.header-light').scrollToFixed({
+    $('.header-light').scrollToFixed({
         preFixed: function () {
             $('.header-light').addClass('hdr-fixed-light');
         },
@@ -92,7 +92,7 @@
         postFixed: function () {
             $('.header-gradient').removeClass('hdr-fixed-gradient');
         }
-    });*/
+    });
 
     $('body').on('click', '#menu-bar', function () {
         var menu = $('.menu');
@@ -119,6 +119,12 @@
             menu.css('left', '-130%');
         }
     });
+
+    $(document).on("click", "a", function(){
+        var menu = $('.menu');
+        menu.css('display', 'block');
+    });
+
 
     $('.menu').on('click', '.hdr-search', function () {
         $('.search-bar').css('display', 'table');

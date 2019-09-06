@@ -24,10 +24,11 @@
     <link rel="stylesheet" href="./assets/plugin/magnific_popup/magnific-popup.min.css"/>
     <!-- Flex Slider Stylesheet CSS -->
     <link rel="stylesheet" href="./assets/plugin/flexslider/flexslider.min.css"/>
-    <link rel="stylesheet" href="./assets/icons/font-awesome/css/fontawesome-all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://unpkg.com/scrollnav@3.0.1/dist/scrollnav.min.umd.js"></script>
     <!-- Custom Main Stylesheet CSS -->
     <link rel="stylesheet" href="./dist/css/style-lightgreen.css">
+    <style>.indent{ padding-left: 1.8em }</style>
 </head>
 <body>
 
@@ -44,10 +45,12 @@
                     <div class="tbl-cell hdr-menu scroll-nav">
                         <!-- Start Menu Section -->
                         <ul class="menu scroll-nav__list">
-                            <li class="menu-megamenu-li text-center scroll-nav__item"><a href="#portfolio"
+                            <li class="menu-megamenu-li text-center scroll-nav__item"><a href="./index.html#portfolio"
                                                                                          class="scroll-nav__link">Packages</a>
+                            </li><li class="menu-megamenu-li text-center scroll-nav__item"><a href="./index.html#tutorials"
+                                                                                         class="scroll-nav__link">Tutorials</a>
                             </li>
-                            <li class="menu-megamenu-li text-center"><a href="#contact"
+                            <li class="menu-megamenu-li text-center"><a href="./index.html#contact"
                                                                         class="scroll-nav__link">Contact Me</a></li>
                             <li class="mobile-menu-close"><i class="fa fa-times"></i></li>
                         </ul><!-- End Menu Section -->
@@ -97,8 +100,9 @@
                                                 Buy Me A <i class="fa fa-coffee"></i>
                                             </a>
                                         </button>
+
                                     </div>
-                                </div>
+                                </div><br><br>
                             </div>
                         </div>
                     </div>
@@ -108,6 +112,7 @@
     </div><!-- End Slider Section -->
     <!--Start Portfolio-->
     <div class="layer-stretch" id="portfolio">
+        <br><br>
         <div class="layer-wrapper pb-20">
             <!--<div class="layer-stretch">-->
             <!--<div class="layer-wrapper pb-20">-->
@@ -211,12 +216,43 @@
     </div>
     <!--End Portfolio-->
 
+    <!--Start Tutorial Section-->
+    <div class="team mdl-color--grey-200" id="tutorials">
+        <div class="layer-stretch">
+            <br>
+            <div class="layer-wrapper pb-20">
+                <div class="layer-ttl"><h4>Tutorials</h4></div>
+                <div class="layer-sub-ttl">These of course are all personally made, so any mistakes, I apologize for them! I try my best at writing comprehensive tutorials</div>
+                <div class="row pt-4">
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="team-block">
+                            <div class="team-img">
+                                <img src="./assets/images/tutorials/nicebarx/main.png" alt="">
+                                <div class="team-description">
+                                    <div class="bg-transparent tutorialDiv">
+                                        <div class="tutorialDivChild">
+                                            <a href="tutorials/nicebarx/"><button class="btn btn-success">View Tutorial</button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!--Start Contact Me-->
     <div class="light-background" id="contact">
         <div class="layer-tablet">
             <div class="layer-wrapper">
                 <div class="layer-ttl"><h4>Don't Hesitate. <span class="text-primary">Reach Out </span> to Me</h4></div>
-                <div class="layer-sub-ttl">I always respond to emails
+
+                <div class="layer-sub-ttl">  <a href="https://twitter.com/alolastmoment"><i class="fa fa-twitter"></i> Twitter</a>
+                    <a href="https://www.reddit.com/user/b1gbangseungri" class="indent"><i class="fa fa-reddit"></i> Reddit</a>
+                </div>
+                <div class="layer-sub-ttl">Or if you prefer Email, I always respond to it.
                 </div>
                 <form name="sentMessage" id="contactForm" action="https://formspree.io/bbscydia@gmail.com"
                       method="POST">
