@@ -134,6 +134,21 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed FaceTime icon size for @2x devices",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
           "title": "1.0",
           "useBoldText": true,
           "useBottomMargin": true,
