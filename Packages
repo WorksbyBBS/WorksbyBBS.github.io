@@ -1,3 +1,20 @@
+Package: io.github.worksbybbs.bubblegumsettings
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/BubblegumInspiredRoundSettings.deb
+Size: 188698
+MD5sum: d09990df5059f6f0e10f34dd9aaead31
+SHA1: a3d20c5542b87053afeb8acbdc380eeab6e734d2
+SHA256: a69fe34f1d34071253381b09dcccc93a120f8ef9b79f7d04bccfb0517c97e6b5
+Section: UI Themes
+Description: Bubblegum Inspired Round Settings Theme
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/BubblegumSettings.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/BubblegumSettings.png
+Name: Bubblegum Inspired Round Settings Theme
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/BubblegumSettings.json
+
 Package: io.github.worksbybbs.bwcwrespringlogo
 Version: 1.0
 Architecture: iphoneos-arm
