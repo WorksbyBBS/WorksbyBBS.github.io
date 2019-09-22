@@ -1,0 +1,126 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://worksbybbs.github.io/assets/images/LinealSB.png",
+  "tintColor": "#58698b",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Simple Status Bar Theme",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/LinealSB1.png",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealSB1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/LinealSB2.png",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealSB2.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "A status bar theme that completes the look of your device when used with Lineal UI and Lineal CC.\r\n\r\nThis has been tested on iPhone XS running iOS 12.1.1 using SnowBoard Statusbar Extension, and iPhone 6s on iOS 12.4 (Unc0ver) using iThemer. I assume it'll also work well for other devices.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "Alo",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "action": "https://twitter.com/alolastmoment",
+          "class": "DepictionTableButtonView",
+          "title": "🐦 Find me on Twitter (@alolastmoment)",
+          "openExternal": true
+        },
+        {
+          "action": "mailto:bbscydia@gmail.com",
+          "class": "DepictionTableButtonView",
+          "title": "✉️ Send me an email",
+          "openExternal": true
+        },
+        {
+          "action": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BBSCydia%40gmail%2ecom&lc=QA&item_name=WorksByBBS%20Repo%20Donation&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest",
+          "class": "DepictionTableButtonView",
+          "title": "Buy me a ☕️ via PayPal",
+          "openExternal": true
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "URL": "https://WorksByBBS.github.io/CydiaIcon.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

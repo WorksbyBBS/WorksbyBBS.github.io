@@ -218,14 +218,14 @@ Name: Ink Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/InkMusicControls.json
 
 Package: io.github.worksbybbs.linealcc
-Version: 1.1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/LinealCC.deb
-Size: 1731906
-MD5sum: 667269aa7781914ab4c691fbbf14cb62
-SHA1: cbb5183a44d6452ea73ca219be97cee925cd8761
-SHA256: 6de1a84759c09ff6bf567f0f0680a588a8a81fc644bb5ed96e45e13035ad797d
+Size: 1721190
+MD5sum: f6c200d3e882da344864f3e3cbf104e3
+SHA1: c8e46d16608b90aa1036e16af2314be053978f99
+SHA256: a3131d504e1c9561920f9c675493870aa3d9a1fe19bbc34ad04798ec1da67f7a
 Section: CC Themes (iOS 11 and 12)
 Description: Lineal CC Theme.
 Author: Alo
@@ -250,6 +250,23 @@ Depiction: https://worksbybbs.github.io/depictions/LinealMC.html
 Icon: https://worksbybbs.github.io/assets/images/LinealMusicControls.png
 Name: Lineal Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealMC.json
+
+Package: io.github.worksbybbs.linealsb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/LinealStatusBar.deb
+Size: 71364
+MD5sum: 7ba8c2100777a480ecf13c1b82ec904f
+SHA1: 5299a16f070950b9cd25bb2d8407a197316d2bab
+SHA256: bcc9744ff595f6a7cafd183f8b913bf709fa0e855e210415105fa7e9091dab8b
+Section: Statusbar Themes (iOS 11 and 12)
+Description: A status bar theme
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/LinealSB.html
+Icon: https://worksbybbs.github.io/assets/images/LinealSB.png
+Name: Lineal Status Bar Theme
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealSB.json
 
 Package: io.github.worksbybbs.linealui
 Version: 1.3.1
