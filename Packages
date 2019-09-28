@@ -252,14 +252,14 @@ Name: Lineal Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealMC.json
 
 Package: io.github.worksbybbs.linealsb
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/LinealStatusBar.deb
-Size: 71364
-MD5sum: 7ba8c2100777a480ecf13c1b82ec904f
-SHA1: 5299a16f070950b9cd25bb2d8407a197316d2bab
-SHA256: bcc9744ff595f6a7cafd183f8b913bf709fa0e855e210415105fa7e9091dab8b
+Size: 73732
+MD5sum: a508ea8a311216582f0c0fc60cdc0f79
+SHA1: e81fc8523ac281c9027c8f68dc2f615ff37cdcd6
+SHA256: 1faa22e5ca1a170c7532ddee1e9d156459539b14f4dbe7944a48db7e444749cb
 Section: Statusbar Themes (iOS 11 and 12)
 Description: A status bar theme
 Author: Alo
