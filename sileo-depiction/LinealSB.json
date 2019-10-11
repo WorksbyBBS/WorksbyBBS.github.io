@@ -25,6 +25,11 @@
               "accessibilityText": "Screenshot",
               "url": "https://worksbybbs.github.io/assets/images/LinealSB2.png",
               "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealSB2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://worksbybbs.github.io/assets/images/LinealSB3.jpg",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/LinealSB3.jpg"
             }
           ],
           "class": "DepictionScreenshotsView"
@@ -43,7 +48,7 @@
         },
         {
           "title": "Version",
-          "text": "1.1",
+          "text": "1.2",
           "class": "DepictionTableTextView"
         },
         {
@@ -103,6 +108,21 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "1.2",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added bigger Wifi and Cellular icons for @2x devices",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
         {
           "title": "1.1",
           "useBoldText": true,
