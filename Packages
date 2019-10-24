@@ -217,6 +217,23 @@ Icon: https://worksbybbs.github.io/assets/images/Icons/InkMusicControls.png
 Name: Ink Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/InkMusicControls.json
 
+Package: io.github.worksbybbs.kelmacc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/KelmaCC.deb
+Size: 241104
+MD5sum: d056bbb30f4b4e110ce5ec56b2ecb457
+SHA1: 43071f2fd669e101bce11e713afdc67e05b52fd0
+SHA256: 46546af13bd7c6253e36fc6a79073082b255cb9e8b022379b877bc0d5a241a6c
+Section: CC Themes (iOS 11 and 12)
+Description: A CC theme made up of words
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/KelmaCC.html
+Icon: https://worksbybbs.github.io/assets/images/KelmaCC2.png
+Name: Kelma CC Theme
+Sileodepiction: https://worksbybbs.github.io/sileo-depiction/KelmaCC.json
+
 Package: io.github.worksbybbs.linealcc
 Version: 1.2
 Architecture: iphoneos-arm
