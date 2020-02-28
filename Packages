@@ -1,12 +1,12 @@
 Package: io.github.worksbybbs.bubblegumsettings
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/BubblegumInspiredRoundSettings.deb
-Size: 195946
-MD5sum: 5bd97b6c5a0652f7ef6b532a602e2327
-SHA1: 220fbcb6ef41896e84df9692692010ed36f926b9
-SHA256: ebcb049ad3b3361f7513e771024bdc2e867acedec23561fcc48a6c46cebde3d0
+Size: 231002
+MD5sum: 235d39373e3e2197193d68cb8b350a12
+SHA1: 1710ee560b8a1cd22fd76223e227e0f3bf1a10d6
+SHA256: c86232efc25298c8c7b6818b2fb39f1eb98b8a7e670d93998a099e8fd4098bea
 Section: UI Themes
 Description: Bubblegum Inspired Round Settings Theme
 Author: Alo
