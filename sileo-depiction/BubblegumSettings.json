@@ -134,6 +134,21 @@
       "tabname": "Changelog",
       "views": [
         {
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\uAdded iOS 13 and Shuffle tweak icons. Thanks to <a class=\"text-success\" href=\"https://twitter.com/j_min89\">Min_J</a> for the extra help!",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
           "title": "1.0.2",
           "useBoldText": true,
           "useBottomMargin": true,
