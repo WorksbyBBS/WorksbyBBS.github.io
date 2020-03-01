@@ -307,10 +307,10 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/NiceBarXFlatIcons.deb
-Size: 9554
-MD5sum: 79b11dafd3581623b4ae51958f6b888a
-SHA1: 8b1354c2d35348c7c4609aba3750bb9c5d29e417
-SHA256: 21f35f959dd9c00257abad3344c2f5ca52eb45154619d277f6f1541ddcbe3655
+Size: 9560
+MD5sum: 400ec91ce57971c512ae48fa830ab6f6
+SHA1: f985e8a7eb28498631cf1ad092a46ceeaf08ca23
+SHA256: e99123a74eb26c0446769c5d40615196783dd01007b05aa8c37e17e22022acf8
 Section: NiceBarX Themes
 Description: NiceBarX Flat Icons
 Depiction: https://worksbybbs.github.io/depictions/NiceBarXFlat.html
