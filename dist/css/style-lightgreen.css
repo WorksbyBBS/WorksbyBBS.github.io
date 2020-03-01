@@ -7726,10 +7726,11 @@ body {
   color: #555; }
 
 .page-colored::before {
-  background: rgba(52, 131, 255, 0.8); }
+  background: background: rgba(24, 24,43, 0.8);  }
 
 .page-gradient::before {
-  background: linear-gradient(-90deg, rgba(23, 160, 105, 0.8) 0%, rgba(84, 199, 153, 0.8) 100%); }
+  background: rgba(24, 24,43, 0.8); 
+ }
 
 .modal-header h5 {
   font-size: 24px; }
