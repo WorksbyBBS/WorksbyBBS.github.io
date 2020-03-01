@@ -7656,7 +7656,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../../../../Downloads/APEZ/Template/website/uploads/slider-1.jpg); }
+/*background-image: url(../../../../Downloads/APEZ/Template/website/uploads/slider-1.jpg);*/ }
   .page-ttl::before {
     content: '';
     position: absolute;
@@ -10736,7 +10736,7 @@ body {
     position: relative;
     width: 100%;
     height: 450px;
-    background-image: url(../../../../Downloads/APEZ/Template/website/uploads/slider-law-2.jpg);
+    /*background-image: url(../../../../Downloads/APEZ/Template/website/uploads/slider-law-2.jpg);*/
     background-size: cover;
     background-position: center; }
   .testimonial-1 .owl-carousel .owl-item img {
@@ -11482,7 +11482,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../../../../Downloads/APEZ/Template/website/uploads/slider-1.jpg); }
+/*background-image: url(../../../../Downloads/APEZ/Template/website/uploads/slider-1.jpg);*/ }
   .coming-soon::after {
     content: '';
     position: absolute;
