@@ -73,7 +73,6 @@ Input, textarea:  font-family: "Poppins", sans-serif;
 
 body {
     background-color: $colorF;
-    // background-image: url(../../../../WebstormProjects/SeniorProject2019/public/images/background-dust.png);/* Background pattern from Toptal Subtle Patterns */
     background-repeat: repeat;
     background-position: top;
 }
@@ -85,9 +84,9 @@ body {
 /************************************************
 [ ICON CSS START ] ******************************
 *************************************************/
-@import '../../../../Downloads/APEZ/Template/website/assets/icons/font-awesome/css/fontawesome-all.min.css';
-@import '../../../../Downloads/APEZ/Template/website/assets/icons/simple-line-icons/css/simple-line-icons.min.css';
-@import '../../../../Downloads/APEZ/Template/website/assets/icons/themify/css/themify-icons.css';
+@import '../../../assets/icons/font-awesome/css/fontawesome-all.min.css';
+@import '../../../assets/icons/simple-line-icons/css/simple-line-icons.min.css';
+@import '../../../assets/icons/themify/css/themify-icons.css';
 
 /************************************************
 [ Common CSS START ] *************************
