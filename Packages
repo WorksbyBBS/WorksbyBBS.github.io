@@ -319,14 +319,14 @@ Name: NiceBarX Flat Icons
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/NiceBarXFlat.json
 
 Package: io.github.worksbybbs.nicebarxlineal
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/NiceBarXLinealIcons.deb
-Size: 20232
-MD5sum: ed6fec0a6815daef428e080940101e01
-SHA1: 78bd85b4beadc407218cc8b7a5c60322556a483d
-SHA256: efdc216343e3addaba5a7d94a3158d8eea7a25fc00cdf1765d5c6da5e1ca1b4c
+Size: 74828
+MD5sum: 91b0c8fd3e8e0f6e1c90974f85b8388a
+SHA1: 4d5202c0020be91dab4816a12d74e3d63984f5a8
+SHA256: 0003239d734255d729f4de45f5fd453a7a290a906ebe286d7fb0b74807d7820e
 Section: NiceBarX Themes
 Description: NiceBarX Lineal Icons
 Depiction: https://worksbybbs.github.io/depictions/NiceBarXLineal.html
