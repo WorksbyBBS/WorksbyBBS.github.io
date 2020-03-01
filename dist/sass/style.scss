@@ -73,9 +73,9 @@ Input, textarea:  font-family: "Poppins", sans-serif;
 
 body {
     background-color: $colorF;
-    background-image: url(../../../../WebstormProjects/SeniorProject2019/public/images/background-dust.png);/* Background pattern from Toptal Subtle Patterns */
+    // background-image: url(../../../../WebstormProjects/SeniorProject2019/public/images/background-dust.png);/* Background pattern from Toptal Subtle Patterns */
     background-repeat: repeat;
-    background-position: top; 
+    background-position: top;
 }
 
 /* [ COLOR CSS START ] */
@@ -141,7 +141,7 @@ body {
 
 //*************************************************
 //Color Class *************************************
-//************************************************* 
+//*************************************************
 .setting {
     position: fixed;
     top: 30%;
@@ -200,7 +200,7 @@ body {
 
             &:hover, &.active {
                 background-color: $colorE;
-            } 
+            }
         }
     }
 
@@ -487,7 +487,7 @@ body {
 
                 &:hover {
                     color: $color-primary-0;
-                    padding-left: 10px; 
+                    padding-left: 10px;
 
                     i {
                         color: $color-primary-0;
@@ -566,12 +566,12 @@ body {
             }
             &.active {
                 background: rgba(158, 158, 158, .1);
-                &::after { 
+                &::after {
                     width: 100%;
                 }
             }
             &:hover {
-                &::after { 
+                &::after {
                     width: 100%;
                 }
             }
@@ -586,7 +586,7 @@ body {
     .menu-megamenu-li {
         position: static;
     }
-    
+
     >.mobile-menu-close {
         display: none;
         position: absolute;
@@ -817,7 +817,7 @@ body {
         ul.menu {
             li {
                 >a{
-                    color: $colorE; 
+                    color: $colorE;
                 }
 
                 li {
@@ -885,7 +885,7 @@ body {
         ul.menu {
             li {
                 >a{
-                    color: $colorE; 
+                    color: $colorE;
                 }
 
                 li {
@@ -910,7 +910,7 @@ body {
 }
 
 .page-title-1 {
-    padding: 50px 0 40px 0;   
+    padding: 50px 0 40px 0;
 }
 
 /* [ MENU DROPDOWM TABLE CSS START ] */
@@ -924,14 +924,14 @@ body {
     .menu-dropdown {
         top: 0;
         left: 100%;
-        margin-left: 3px; 
+        margin-left: 3px;
     }
 
     .menu-dropdown-left {
         top: 0;
         left: auto;
         right: 100%;
-        margin: 0 3px 0 0; 
+        margin: 0 3px 0 0;
     }
 }
 
@@ -1245,7 +1245,7 @@ body {
     border: 0;
     margin: 0;
     overflow: hidden;
-    
+
     .layer-stretch {
         height: 100%;
         overflow: visible;
@@ -1269,7 +1269,7 @@ body {
                 width: 100%;
             }
         }
-    }  
+    }
 }
 
 .flex-direction-nav {
@@ -1524,7 +1524,7 @@ body {
     .slides {
         li {
             &::after {
-                display: none;   
+                display: none;
             }
         }
     }
@@ -1883,7 +1883,7 @@ body {
 }
 
 .portfolio-header {
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
 }
 
 .portfolio-filter {
@@ -1920,7 +1920,7 @@ body {
     list-style: none;
     margin-bottom: 30px;
     overflow: hidden;
-    
+
     a {
         display: inline-block;
     }
@@ -1993,7 +1993,7 @@ body {
                 opacity: 0;
                 text-align: center;
                 color: $colorF;
-                -webkit-backface-visibility: hidden; 
+                -webkit-backface-visibility: hidden;
             }
 
             .title, .icon, .description {
@@ -2640,7 +2640,7 @@ body {
 
 .flip-container {
     position: relative;
-    width: 100%;    
+    width: 100%;
     -webkit-perspective: 1000;
     -moz-perspective: 1000;
     -ms-perspective: 1000;
@@ -3043,7 +3043,7 @@ body {
 .widget-product {
     padding: 0;
     margin: 0;
-    
+
     li {
         margin: 0 0 20px 0;
 
@@ -3184,7 +3184,7 @@ body {
     background-color: #fafafa;
 
     .layer-wrapper{
-        padding-bottom: 45px; 
+        padding-bottom: 45px;
     }
 }
 
@@ -3219,7 +3219,7 @@ body {
         border: 5px solid #f1f1f1;
         border-radius: 50%;
     }
-    
+
     h4 {
         color: $color7;
         font-size: 28px;
@@ -3322,7 +3322,7 @@ body {
 
         }
         .img {
-            padding: 0 10px 0 0;             
+            padding: 0 10px 0 0;
         }
 
         .person {
@@ -3460,7 +3460,7 @@ body {
 .blogp-title {
     font-size: 30px;
     color: $color5;
-    margin: 20px 0;        
+    margin: 20px 0;
 }
 
 .blogp-post {
@@ -3551,7 +3551,7 @@ body {
 
 .second-comment {
     margin: 20px 0 0 17%;
-    padding: 20px 0 0 0; 
+    padding: 20px 0 0 0;
     border-top: 1px solid $colorE;
 }
 
@@ -3648,7 +3648,7 @@ body {
         left: 50%;
         display: inline-block;
         margin-left: -55px;
-        padding: 0 30px; 
+        padding: 0 30px;
         font-size: $smallFont;
         color: $color7;
         background: $colorF;
@@ -3699,7 +3699,7 @@ body {
     overflow: hidden;
     background: #f4f4f4;
     margin: 20px auto 0 auto;
-    
+
     span {
         display: block;
         text-align: center;
@@ -3754,7 +3754,7 @@ body {
 
     .block {
         text-align: center;
-        
+
         i {
             display: inline-block;
             width: 100px;
@@ -4020,7 +4020,7 @@ body {
         text-align: right;
         margin: 15px 0 0 0;
         padding: 15px 0 0 0;
-        border-top: 1px solid $color9; 
+        border-top: 1px solid $color9;
     }
 }
 
@@ -4031,7 +4031,7 @@ body {
 
 .eventp-address {
     margin: 10px 0 0 0;
-    
+
     p {
         font-size: 16px;
         color: $color5;
@@ -4129,7 +4129,7 @@ body {
             background: $colorC;
         }
 
-        &::before {    
+        &::before {
             right: 100%;
         }
 
@@ -4226,7 +4226,7 @@ body {
 
 .footer-subscribe-button {
     padding: 10px 0 0 0;
-    
+
     button {
         &:hover {
             color: $colorF;
@@ -4462,7 +4462,7 @@ body {
             background-color: rgba(254, 193, 7, .5);
             border-radius: 50%;
             &::after {
-                content: "\e081"; 
+                content: "\e081";
                 position: absolute;
                 top: 50%;
                 left: 50%;
