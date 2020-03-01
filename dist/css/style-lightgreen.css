@@ -7274,7 +7274,7 @@ body {
   right: 15px; }
   .theme-accordion-control i {
     font-size: 24px;
-    color: #34AF7E; }
+    color: #717171; }
 
 .theme-accordion-bdy {
   display: none;
@@ -9235,7 +9235,7 @@ body {
   box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1); }
 
 .hdr-fixed-gradient {
-  background: linear-gradient(-90deg, rgba(24, 24, 43, 0.8) 0%, rgba(15, 15, 15, 0.8) 100%);
+  background: linear-gradient(-90deg, rgba(24, 24, 43, 1) 0%, rgba(15, 15, 15, 1) 100%);
   box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.1); }
 
 /**************************************************
