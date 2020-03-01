@@ -68,9 +68,9 @@ Input, textarea:  font-family: "Poppins", sans-serif;
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
-@import url(../../../../Downloads/APEZ/Template/website/assets/icons/font-awesome/css/fontawesome-all.min.css);
+/*@import url(../../../../Downloads/APEZ/Template/website/assets/icons/font-awesome/css/fontawesome-all.min.css);
 @import url(../../../../Downloads/APEZ/Template/website/assets/icons/simple-line-icons/css/simple-line-icons.min.css);
-@import url(../../../../Downloads/APEZ/Template/website/assets/icons/themify/css/themify-icons.css);
+@import url(../../../../Downloads/APEZ/Template/website/assets/icons/themify/css/themify-icons.css);*/
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -11822,4 +11822,3 @@ body {
   padding-top:40%;
   vertical-align:middle;
 }
-
