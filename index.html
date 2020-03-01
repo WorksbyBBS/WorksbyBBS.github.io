@@ -32,6 +32,7 @@
     <!-- Custom Main Stylesheet CSS -->
     <link rel="stylesheet" href="./dist/css/style-lightgreen.css">
     <style>.indent{ padding-left: 1.8em }</style>
+    
 </head>
 <body>
 
@@ -81,14 +82,14 @@
                                         <button class="btn btn-outline btn-light btn-pill btn-gradient text-dark">
                                             <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://worksbybbs.github.io"
                                                class="btn btn-lg btn-outline">
-                                                <i class="fa fa-archive"></i> Add This To Cydia/Sileo
+                                                <i class="fa fa-archive"></i> Add This to your Package Manager
                                             </a>
                                         </button>
                                     </div>
                                 </div>
                                 <div class="row">
-                                    <div class="col-sm-12 text-center">
-                                        <br><br><h4>Available Packages: 25</h4>
+                                    <div class="col-sm-12 text-center" style="color:#FFFFFF;">
+                                        <br><br><h4>Available Packages: <span id="noPackages">26</span></h4>
                                         <h4>If you find yourself appreciating my work, please consider supporting
                                             me</h4>
                                     </div>
@@ -1159,6 +1160,7 @@
             $(this).off("touchmove");
         });
     });
+    
 </script>
 </body>
 </html>
