@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://worksbybbs.github.io/assets/images/Icons/NiceBarXLineal.png",
+  "headerImage": "https://worksbybbs.github.io/assets/images/NiceBarXLineal.png",
   "tintColor": "#1d1e22",
   "tabs": [
     {
@@ -18,14 +18,14 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://worksbybbs.github.io/assets/images/tutorials/nicebarx/custom1.jpg",
-              "fullSizeURL": "https://worksbybbs.github.io/assets/images/tutorials/nicebarx/custom1.jpg"
+              "url": "https://worksbybbs.github.io/assets/images/NiceBarXLineal.png",
+              "fullSizeURL": "https://worksbybbs.github.io/assets/images/NiceBarXLineal.png"
             }
           ],
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "8 Lineal Icons to be used with NiceBarX Tweak. For a tutorial that has all the information you need about this tweak, <a href=\"https://worksbybbs.github.io/tutorials/nicebarx/\">CLICK THIS LINK HERE</a>",
+          "markdown": "WiFi, Cellular, and 8 Lineal Icons to be used with NiceBarX Tweak. For a tutorial that has all the information you need about this tweak, <a href=\"https://worksbybbs.github.io/tutorials/nicebarx/\">CLICK THIS LINK HERE</a>",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -38,7 +38,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0",
+          "text": "1.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -98,6 +98,21 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+          "title": "1.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added support for NiceBarX13\t\n\u2022 Added WiFi and Cellular icons",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
         {
           "title": "1.0",
           "useBoldText": true,
