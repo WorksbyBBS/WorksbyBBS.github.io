@@ -84,36 +84,36 @@ Depiction: https://worksbyBBS.github.io/depictions/ColorSwirlLoadingIndicator.ht
 Name: Color Swirl Loading Indicator
 
 Package: io.github.worksbybbs.compacticons
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/Compacticons.deb
-Size: 1913250
-MD5sum: 54264116e35423be49a027a2026f599c
-SHA1: bc80587bf4ca8e322c619d6fff93fb4bea201c9b
-SHA256: 674f3fc8d875738ab3ebac09c755eadc4722057040cda76ac0668083961a5271
+Size: 2053140
+MD5sum: 67793934910fac359f7b31dc68fe8efc
+SHA1: ed1b5cef9d2167444306c4f245c816618665245a
+SHA256: b966da26e1b977d0f56e64835f9ec7c3cfda56f85a31a492e8ae57a391923dae
 Section: Themes
 Description: Compacticons for iOS
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/Compacticons.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/CompacticonsIcon.png
-Name: Compactions for iOS
+Name: Compacticons for iOS
 
 Package: io.github.worksbybbs.compacticonswhite
-Version: 1.0.1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/CompacticonsWhite.deb
-Size: 2099638
-MD5sum: dcb8e719044ad05e801e86b6a8eb2aad
-SHA1: dd1ef861caf8ea20506dcec9d8a56930a1bfdbb1
-SHA256: c5d6262ce902a8a73abdc8f096f35121291fa624024f581a02e29467c8549b28
+Size: 2205990
+MD5sum: 363c356d7e816948f18106568e6e1dbb
+SHA1: 80c871608ab89255045e95e3eb2aa389b5bc5805
+SHA256: 2a7eddd6a0dfa3cd4d2f31ce5854aa1f5a3d8aeeee5c799403f5e9e87b67a2c2
 Section: Themes
 Description: Compacticons White for iOS
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/CompacticonsWhite.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/CompacticonsWhiteIcon.png
-Name: Compactions White for iOS
+Name: Compacticons White for iOS
 
 Package: io.github.worksbybbs.compactionscc11
 Version: 1.1
