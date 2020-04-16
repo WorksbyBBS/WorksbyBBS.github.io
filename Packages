@@ -18,22 +18,6 @@ Package: io.github.worksbybbs.alowbline1
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
-Filename: ./debs/AloWhatsAppBubblesLine2.deb
-Size: 2158
-MD5sum: 69e365ede8bf4f9a6dad6625f488a00a
-SHA1: 51d0db13e581307036edd8496bc6754a863e283e
-SHA256: 94fab6134c8aa18270b68bc7f711ea871d22cffc568add9316e8290315d329ec
-Section: Themes (Message Bubbles)
-Description: Alo WhatsApp Bubbles Line2
-Author: Alo
-Depiction: https://worksbybbs.github.io/depictions/AloWBLine2.html
-Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
-Name: Alo WhatsApp Bubbles Line2
-
-Package: io.github.worksbybbs.alowbline1
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/AloWhatsAppBubblesLine1.deb
 Size: 3764
 MD5sum: 5e46a9c1fbe417aed2515f33ab53810f
@@ -45,6 +29,22 @@ Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/AloWBLine1.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo WhatsApp Bubbles Line1
+
+Package: io.github.worksbybbs.alowbline2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/AloWhatsAppBubblesLine2.deb
+Size: 2162
+MD5sum: 24f0f48d0553f43452306278d4969837
+SHA1: 95adbb868adb8187802efde2022e257d80407aef
+SHA256: 505bcb9cc487881bdc0174771713d77a18f84748c2a6ecb05bcc3be6bf865742
+Section: Themes (Message Bubbles)
+Description: Alo WhatsApp Bubbles Line2
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/AloWBLine2.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
+Name: Alo WhatsApp Bubbles Line2
 
 Package: io.github.worksbybbs.alowbtwitter
 Version: 1.0
