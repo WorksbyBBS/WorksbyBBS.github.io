@@ -1,3 +1,20 @@
+Package: io.github.worksbybbs.alomessagebubbles.line
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Depends: com.nahtedetihw.bubblelineremover
+Filename: ./debs/Alo.MessageBubbles.Line.deb
+Size: 1844
+MD5sum: 6c56617a16e04656451eba6bd0085393
+SHA1: 280a6903e79836c303947435534a498b8315ac99
+SHA256: 3858df62b2d0a3098205873e39d1f167b13ae24802d653a198c30331d1de0387
+Section: Themes (Message Bubbles)
+Description: Line Message Bubbles Theme
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/AloMBLine.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
+Name: Alo Message Bubbles Line
+
 Package: io.github.worksbybbs.alowbb1
 Version: 1.0
 Architecture: iphoneos-arm
