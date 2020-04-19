@@ -4,16 +4,16 @@ Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Depends: com.twickd.ethan-whited.bubblelineremover
 Filename: ./debs/AloMBBrackets.deb
-Size: 2260
-MD5sum: 6e3dcdcf77f8f5be122ee93fbd0a59b0
-SHA1: 3a746f77cb061df73657871444e02faa33cb874b
-SHA256: d548c1c8cf27c594023348345db7b906a6574a17c38f5d5ab5d108b5d688ff93
+Size: 2268
+MD5sum: 71846277cae4486115863487b73b4a34
+SHA1: 441c955eeecc58d2f880dd519c64011be6a12ac2
+SHA256: 06f4f5778d30a0577a4864c3c3d5dce6b7e31d3f9ce0e5a9fb8aa415322da990
 Section: Themes (Message Bubbles)
-Description: Line Message Bubbles Theme
+Description: Brackets Message Bubbles Theme
 Author: Gabe
 Depiction: https://worksbybbs.github.io/depictions/AloMBBrackets.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
-Name: Alo Message Bubbles Line
+Name: Alo Message Bubbles Brackets
 
 Package: io.github.worksbybbs.alomessagebubbles.heartbeat
 Version: 1.0
@@ -21,16 +21,16 @@ Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Depends: com.twickd.ethan-whited.bubblelineremover
 Filename: ./debs/AloMBHeartbeat.deb
-Size: 5518
-MD5sum: 47a0db6baf7481705bb3a622c2d53afb
-SHA1: f15446025a4e578bb82c0750b46238f5111f9325
-SHA256: dfef2e3a18157332319b453caad775efbd45c789407ccffb3a6be93a2480e06c
+Size: 5520
+MD5sum: 34308e644bbe3391fc51019b3ba42c7c
+SHA1: 2862acac1db9a1efb93724359eccb76395cc4dbe
+SHA256: 05ae7d44a7348af3491c6d83942a45cea6763287331c35309a64c13a3dad0fdf
 Section: Themes (Message Bubbles)
-Description: Line Message Bubbles Theme
+Description: Heartbeat Message Bubbles Theme
 Author: Gabe
 Depiction: https://worksbybbs.github.io/depictions/AloMBHeartbeat.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
-Name: Alo Message Bubbles Line
+Name: Alo Message Bubbles Heartbeat
 
 Package: io.github.worksbybbs.alomessagebubbles.line
 Version: 1.0
@@ -56,15 +56,15 @@ Maintainer: Alo <bbscydia@gmail.com>
 Depends: com.twickd.ethan-whited.bubblelineremover
 Filename: ./debs/AloMBPokemon.deb
 Size: 6626
-MD5sum: 3e041ff9b3db2e051458c81aab9af201
-SHA1: 8a8d84259f777c9f52f9ec910ab44d846a89c146
-SHA256: 66cb184af777f04a48e6f74d2a2586e17195db27ac5986d874013ae648173792
+MD5sum: 3fe62c7067dabbcd95260eca352ef62c
+SHA1: cb16c9a4429c1f6c22ad583404560a449a11a52b
+SHA256: 01191a8d77d8f921138776fe7ab3d8f742a11b5483673811210820b1a60535cc
 Section: Themes (Message Bubbles)
-Description: Line Message Bubbles Theme
+Description: Pokemon Message Bubbles Theme
 Author: Gabe
 Depiction: https://worksbybbs.github.io/depictions/AloMBPokemon.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
-Name: Alo Message Bubbles Line
+Name: Alo Message Bubbles Pokemon
 
 Package: io.github.worksbybbs.alowbb1
 Version: 1.0
