@@ -382,14 +382,14 @@ Name: Ink Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/InkMusicControls.json
 
 Package: io.github.worksbybbs.kelmacc
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/KelmaCC.deb
-Size: 293948
-MD5sum: 082c658b603b148b89a0d3838dcfee82
-SHA1: ec49bb7e80f4ce667ef04dfadc6421d3203a0885
-SHA256: f52e5d602043a15e8742e6659bffedee12a8fcb9ed57aa1b8ccc7319ebbf4ee1
+Size: 293976
+MD5sum: 54b8c296fcbaf8f8d6a528b4abf560a4
+SHA1: 8d290aede56e83562b9a06b758dbed03b0402535
+SHA256: 6f9874b8d592eaa513e37bd702ec7968791561f2701f5251a5246cf0016b96dc
 Section: CC Themes
 Description: A CC theme made up of words
 Author: Alo
