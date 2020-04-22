@@ -30,6 +30,22 @@ Depiction: https://worksbybbs.github.io/depictions/AloMBHeartbeat.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo Message Bubbles Heartbeat
 
+Package: io.github.worksbybbs.alomessagebubbles.jona
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/AloMBJona.deb
+Size: 6098
+MD5sum: bc301ca32ed1a1def466d98c0ae88b8c
+SHA1: 2602891058816b2ea5fb5a1305339c77e12108a0
+SHA256: 1ce1e2a9e0c8c7d49c5b9d47c67639dba9c5496c369dd9f7c612e46e3401d0dd
+Section: Themes (Message Bubbles)
+Description: Jona Message Bubbles Theme
+Author: Jona
+Depiction: https://worksbybbs.github.io/depictions/AloMBJona.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
+Name: Alo Message Bubbles Jona
+
 Package: io.github.worksbybbs.alomessagebubbles.line
 Version: 1.1
 Architecture: iphoneos-arm
