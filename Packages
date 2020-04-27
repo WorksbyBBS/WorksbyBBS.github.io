@@ -14,6 +14,22 @@ Depiction: https://worksbybbs.github.io/depictions/AloMBBrackets.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo Message Bubbles Brackets
 
+Package: io.github.worksbybbs.alomessagebubbles.fade
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/AloMBFade.deb
+Size: 2198
+MD5sum: 0e6a66289b0b1ba7dd1a25d4c953d854
+SHA1: 66ba25564501a1df4019675d1bd270fcee408e2e
+SHA256: f25542b3197583b014a0328b1bf6c4265f01b0d87b85ae85c7476b730ce3e549
+Section: Themes (Message Bubbles)
+Description: Fade Message Bubbles Theme
+Author: Gabe
+Depiction: https://worksbybbs.github.io/depictions/AloMBFade.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
+Name: Alo Message Bubbles Fade
+
 Package: io.github.worksbybbs.alomessagebubbles.heartbeat
 Version: 1.1
 Architecture: iphoneos-arm
@@ -77,6 +93,22 @@ Author: Gabe
 Depiction: https://worksbybbs.github.io/depictions/AloMBPokemon.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo Message Bubbles Pokemon
+
+Package: io.github.worksbybbs.alomessagebubbles.saber
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/AloMBSaber.deb
+Size: 7278
+MD5sum: 3a30ebe54af7a6af585c0b1688fe874c
+SHA1: 43c31a24b75ae9b947cf0835758b868369523228
+SHA256: fec46b2afeb41c983fffcd58955787cde40b3b9d41f1819a554250fb4d924e8f
+Section: Themes (Message Bubbles)
+Description: Saber Message Bubbles Theme
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/AloMBSaber.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
+Name: Alo Message Bubbles Saber
 
 Package: io.github.worksbybbs.alowbb1
 Version: 1.0
