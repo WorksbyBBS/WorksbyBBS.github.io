@@ -511,14 +511,14 @@ Name: Lineal UI Theme
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealUI.json
 
 Package: io.github.worksbybbs.nicebarxflat
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/NiceBarXFlatIcons.deb
-Size: 9560
-MD5sum: 400ec91ce57971c512ae48fa830ab6f6
-SHA1: f985e8a7eb28498631cf1ad092a46ceeaf08ca23
-SHA256: e99123a74eb26c0446769c5d40615196783dd01007b05aa8c37e17e22022acf8
+Size: 9980
+MD5sum: 34b6beab8b93894a3341a4526c94955b
+SHA1: 0c211a30c9931389efec1d2e063ff2617c3cb301
+SHA256: 545aa60ad9b5a7ffdb9dbb8888152473a0b598078f71aa120c6dff4c80c21e79
 Section: NiceBarX Themes
 Description: NiceBarX Flat Icons
 Depiction: https://worksbybbs.github.io/depictions/NiceBarXFlat.html
@@ -527,14 +527,14 @@ Name: NiceBarX Flat Icons
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/NiceBarXFlat.json
 
 Package: io.github.worksbybbs.nicebarxlineal
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/NiceBarXLinealIcons.deb
-Size: 74828
-MD5sum: 91b0c8fd3e8e0f6e1c90974f85b8388a
-SHA1: 4d5202c0020be91dab4816a12d74e3d63984f5a8
-SHA256: 0003239d734255d729f4de45f5fd453a7a290a906ebe286d7fb0b74807d7820e
+Size: 111688
+MD5sum: e5b26a064591b1262258dee941b75d9a
+SHA1: 98685b3efacbca562d7b6b37bbc110009fb3b6f3
+SHA256: c659c9f3f0a1cb73d8490fd88b57c8532ccf82bc9944d2b9dd55e97b958b9554
 Section: NiceBarX Themes
 Description: NiceBarX Lineal Icons
 Depiction: https://worksbybbs.github.io/depictions/NiceBarXLineal.html
