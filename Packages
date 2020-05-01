@@ -175,15 +175,15 @@ Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo WhatsApp Bubbles Twitter
 
 Package: io.github.worksbybbs.bubblegumsettings
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/BubblegumInspiredRoundSettings.deb
-Size: 240036
-MD5sum: 193fe3a7c5b4cb4e0ef05c53d17e06fa
-SHA1: efe43df186f93b56ff0a06954e186a281a7ddf8d
-SHA256: ecaaf90566518d98358c75c5c53a857a7c712b28fab77a7ff8c3e73544fa4612
-Section: UI Themes
+Size: 240046
+MD5sum: 4b8da08a3ffe52aa2e8db68822140e10
+SHA1: 955834080493e9a902ba30c09391e0ff83934fca
+SHA256: 0c78fd232656ab87b8e906275be96c05224b5d073a3631d4a86e5b34efcd12d7
+Section: Themes (Settings)
 Description: Bubblegum Inspired Round Settings Theme
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/BubblegumSettings.html
@@ -641,4 +641,20 @@ Depiction: https://worksbybbs.github.io/depictions/XeonPebbli.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/XeonPebbli.png
 Name: Pebbli Status Bar for Xeon
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/XeonPebbli.json
+
+Package: io.github.worksbybbs.yellowdotssettings
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/YellowSettings.deb
+Size: 34502
+MD5sum: 12672a24ef66d22fb75cf6b6fb5baf7f
+SHA1: 6ad3a021673b4cdb18ba84db07eb91b630edd1d6
+SHA256: 9139745a0dd2802db091d4eea8cb5c6fcfe76e6da9ca2be5c6da8ab2e8289da2
+Section: Themes (Settings)
+Description: Yellow Dots Settings
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/YellowSettings.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/YellowSettings.png
+Name: Yellow Dots Settings
 
