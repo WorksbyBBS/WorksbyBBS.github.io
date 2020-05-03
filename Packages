@@ -390,6 +390,22 @@ Author: b1gbangseungri
 Depiction: https://worksbybbs.github.io/depictions/GotGLockGlyph.html
 Name: Guardians of the Galaxy LockGlyph Pack
 
+Package: io.github.worksbybbs.greendotssettings
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/GreenSettings.deb
+Size: 65104
+MD5sum: 875c77651487f5011230929e46f78993
+SHA1: e5a35c2826f1d2dfc3908a1a9cec931d7201fccb
+SHA256: 50835ffdc47369228041b362c23adc7637abc9fcd3d739e97958fcb412fa6a55
+Section: Themes (Settings)
+Description: Green Dots Settings
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/GreenSettings.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/GreenSettings.png
+Name: Green Dots Settings
+
 Package: io.github.worksbybbs.hexagonsloadingindicator
 Version: 1.0
 Architecture: iphoneos-arm
@@ -625,6 +641,22 @@ Author: b1gbangseungri
 Depiction: https://worksbybbs.github.io/depictions/whiteBWCW.html
 Name: White BWCW Respring Logo
 
+Package: io.github.worksbybbs.whitedotssettings
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/WhiteSettings.deb
+Size: 63702
+MD5sum: 04f04f3ac87616f2777c548476ae4165
+SHA1: 5207779300ad9873b96fccb4a55796df86b488d2
+SHA256: d039232e6343a765627add5bc6ac0cd1a9d9fb7f319fd4cd5ff5c5aa0e521d2e
+Section: Themes (Settings)
+Description: White Dots Settings
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/WhiteSettings.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/WhiteSettings.png
+Name: White Dots Settings
+
 Package: io.github.worksbybbs.xeon.pebbli
 Version: 1.0
 Architecture: iphoneos-arm
@@ -643,14 +675,14 @@ Name: Pebbli Status Bar for Xeon
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/XeonPebbli.json
 
 Package: io.github.worksbybbs.yellowdotssettings
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/YellowSettings.deb
-Size: 34502
-MD5sum: 12672a24ef66d22fb75cf6b6fb5baf7f
-SHA1: 6ad3a021673b4cdb18ba84db07eb91b630edd1d6
-SHA256: 9139745a0dd2802db091d4eea8cb5c6fcfe76e6da9ca2be5c6da8ab2e8289da2
+Size: 62844
+MD5sum: a87c618ccbe9f769c735f52c86398618
+SHA1: 9a47bd3bd316a4eb99375b4175b15253e9063a1b
+SHA256: 95eeffb71ba3cee83c69f20fd88cd38289bdc5b79637dc85ea043dc410dc0670
 Section: Themes (Settings)
 Description: Yellow Dots Settings
 Author: Alo
