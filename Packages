@@ -110,16 +110,32 @@ Depiction: https://worksbybbs.github.io/depictions/AloMBSaber.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo Message Bubbles Saber
 
-Package: io.github.worksbybbs.alowbb1
+Package: io.github.worksbybbs.alowb.brackets
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
-Filename: ./debs/AloWhatsAppBubblesB1.deb
-Size: 4450
-MD5sum: 1e109c5fa42ff85314fb40c2fba162f6
-SHA1: 361ef088ef27496c151e013257cab3a48f30ed13
-SHA256: 7d44f6b300b005d64c7110abc460d51aae054a51e55fec3b5303dc54fc9ed459
-Section: Themes (Message Bubbles)
+Filename: ./debs/AloWBBrackets.deb
+Size: 5236
+MD5sum: d85aba04d73ef564a11180ef5b302ac7
+SHA1: 25c34cc38e16c128361614081b7e3e861da068db
+SHA256: a5698879cf93e6987c93d00b8df5528ef45e1e5fb4a368d1dc72c37ae433a379
+Section: Themes (WhatsApp Bubbles)
+Description: Brackets WhatsApp Bubbles Theme
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/AloWBBrackets.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
+Name: Alo WhatsApp Bubbles Brackets
+
+Package: io.github.worksbybbs.alowbb1
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/AloWBB1.deb
+Size: 9818
+MD5sum: fe04a9dcdb131bfbcaa201e1005a0cd7
+SHA1: 0d6a60b64a5928243a58123d31e7d761d510a043
+SHA256: 9d219ebc5373139771caa859618f5bfd9edbd6104419e2e2924633e7006cd931
+Section: Themes (WhatsApp Bubbles)
 Description: Alo WhatsApp Bubbles B1
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/AloWBB1.html
@@ -127,15 +143,15 @@ Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo WhatsApp Bubbles B1
 
 Package: io.github.worksbybbs.alowbline1
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
-Filename: ./debs/AloWhatsAppBubblesLine1.deb
-Size: 3764
-MD5sum: 5e46a9c1fbe417aed2515f33ab53810f
-SHA1: b2a2b2a75a8ee60f139958a8635e25cf944c2dc8
-SHA256: 534a01fbb7e7c71e7314c507aeb36457f72c562b6251b542e6b3a9e4363ba535
-Section: Themes (Message Bubbles)
+Filename: ./debs/AloWBLine1.deb
+Size: 5772
+MD5sum: 3af1b82094baf58747517b2319ff292b
+SHA1: 5ade1a68788c21932a64b7220db537663fa2040a
+SHA256: 7de4afa18f9632f552fceaaf2d738be917d91c38a549a69b150cc6216db97498
+Section: Themes (WhatsApp Bubbles)
 Description: Alo WhatsApp Bubbles Line1
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/AloWBLine1.html
@@ -143,15 +159,15 @@ Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo WhatsApp Bubbles Line1
 
 Package: io.github.worksbybbs.alowbline2
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
-Filename: ./debs/AloWhatsAppBubblesLine2.deb
-Size: 2162
-MD5sum: 24f0f48d0553f43452306278d4969837
-SHA1: 95adbb868adb8187802efde2022e257d80407aef
-SHA256: 505bcb9cc487881bdc0174771713d77a18f84748c2a6ecb05bcc3be6bf865742
-Section: Themes (Message Bubbles)
+Filename: ./debs/AloWBLine2.deb
+Size: 5082
+MD5sum: d211d10f2483d12d3de99521eecd16f6
+SHA1: 95710dce0312eba89443cfef20ee17b10d14e4bb
+SHA256: 79f615e9c7235cb9043f818c1562d51241ba15fef8f33f57310fcd459924d635
+Section: Themes (WhatsApp Bubbles)
 Description: Alo WhatsApp Bubbles Line2
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/AloWBLine2.html
@@ -159,20 +175,36 @@ Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo WhatsApp Bubbles Line2
 
 Package: io.github.worksbybbs.alowbtwitter
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
-Filename: ./debs/AloWhatsAppBubblesTwitter.deb
-Size: 7020
-MD5sum: db46e53c45c198b23c588062358e9bad
-SHA1: 247b75e34dc2d900938dc823269b240119511125
-SHA256: 74ed4f0a338dac04a353ab30503c9e55d85fe0cd1c5ec601817cf62604112ada
-Section: Themes (Message Bubbles)
+Filename: ./debs/AloWBTwitter.deb
+Size: 16104
+MD5sum: 65af3f6a6e27def11f81d2c81d365191
+SHA1: a87255ff0728037993c5d45380dafd1803485e59
+SHA256: 3d640f071368a81929ea5cc8b66a9ee1c57e619a29a0dfd528c621a82ce02470
+Section: Themes (WhatsApp Bubbles)
 Description: Alo WhatsApp Bubbles Twitter
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/AloWBTwitter.html
 Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
 Name: Alo WhatsApp Bubbles Twitter
+
+Package: io.github.worksbybbs.alowhatsappbubbles.heartbeat
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alo <bbscydia@gmail.com>
+Filename: ./debs/AloWBHeartBeat.deb
+Size: 4968
+MD5sum: 1b7701a85647e0e24daaf17518c79c0a
+SHA1: f0054b1ef0bcce14af08fb410e377b8565689a29
+SHA256: 75e56e43e6f8e8147f9754668e24118dcdd413c8856199caa7b2f49638e5c921
+Section: Themes (WhatsApp Bubbles)
+Description: HeartBeat WhatsApp Bubbles Theme
+Author: Alo
+Depiction: https://worksbybbs.github.io/depictions/AloWBHeartbeat.html
+Icon: https://worksbybbs.github.io/assets/images/Icons/AloBubbles.png
+Name: Alo WhatsApp Bubbles Heartbeat
 
 Package: io.github.worksbybbs.bubblegumsettings
 Version: 1.2.1
