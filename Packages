@@ -474,15 +474,15 @@ Name: Ink Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/InkMusicControls.json
 
 Package: io.github.worksbybbs.kelmacc
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/KelmaCC.deb
-Size: 293976
-MD5sum: 54b8c296fcbaf8f8d6a528b4abf560a4
-SHA1: 8d290aede56e83562b9a06b758dbed03b0402535
-SHA256: 6f9874b8d592eaa513e37bd702ec7968791561f2701f5251a5246cf0016b96dc
-Section: CC Themes
+Size: 293998
+MD5sum: 2ac0250ba2c47231065d7e597f844b5e
+SHA1: d0ea08c8af20505775501fe013e36630adbb8d3a
+SHA256: ed42195c5f9b6bec8c88c9ae81b806b2444b67f1a72316542e3eb0260f8b7921
+Section: Themes (Control Center)
 Description: A CC theme made up of words
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/KelmaCC.html
@@ -491,15 +491,15 @@ Name: Kelma CC Theme
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/KelmaCC.json
 
 Package: io.github.worksbybbs.linealcc
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/LinealCC.deb
-Size: 1721190
-MD5sum: f6c200d3e882da344864f3e3cbf104e3
-SHA1: c8e46d16608b90aa1036e16af2314be053978f99
-SHA256: a3131d504e1c9561920f9c675493870aa3d9a1fe19bbc34ad04798ec1da67f7a
-Section: CC Themes (iOS 11 and 12)
+Size: 1807228
+MD5sum: 30a71b27878473e3373f31771af9c3a8
+SHA1: 6c9a9ffa83c464d5bc818f3f470d2a3c77ada8e9
+SHA256: f6b9af2b1aaa3ea4ec9e5e1db9f75ec5414a551e84cad44ed5aa92a9394bafec
+Section: Themes (Control Center)
 Description: Lineal CC Theme.
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/LinealCC.html
