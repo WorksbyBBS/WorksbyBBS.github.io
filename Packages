@@ -373,15 +373,15 @@ Depiction: https://worksbybbs.github.io/depictions/Constellations2.html
 Name: Constellations 2 LockGlyph Pack
 
 Package: io.github.worksbybbs.flatmusiccontrols11
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/FlatMusicControls.deb
-Size: 17244
-MD5sum: 75c1be5d4d1b0e1ea8d22e4b85d3974d
-SHA1: 55410b70b3298a73ebf43499740482514661a5e3
-SHA256: a7277be7cf68b3f649620fbe5361733d28064d6a6fe2dde78fa2d960f60ff297
-Section: Music Controls Themes (iOS 11 and 12)
+Size: 99184
+MD5sum: 1f0340dd6de3a8bea7e2ec1b79584e0b
+SHA1: 7c5d549141881041e3fb81d3ab792f09b9ae715e
+SHA256: 156753b36c6f3f7aba1de9130294b60ced536a297aacb18f77eb77fa94f4c4af
+Section: Themes (Music Controls)
 Description: Flat-looking music controls. Works in app, CC, and LS
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/FMC11.html
