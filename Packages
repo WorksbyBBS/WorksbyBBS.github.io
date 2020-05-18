@@ -508,19 +508,19 @@ Name: Lineal CC Theme
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealCC.json
 
 Package: io.github.worksbybbs.linealmusiccontrols
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Alo <bbscydia@gmail.com>
 Filename: ./debs/LinealMusicControls.deb
-Size: 15580
-MD5sum: 761d7688125dc792471871fd5902ec30
-SHA1: 118aa5fbd5300090626587027f7ca46bc240e503
-SHA256: 9779f179c1310f904ba1d9dae051b81fc7a2ff4c5d9755bcc16876b9f665ebac
-Section: Music Controls Themes (iOS 11 and 12)
+Size: 47524
+MD5sum: 8504e906a4e7c40d320d06ee78d7191e
+SHA1: d5565d7167a80d5856814f213b9251cd8b532e1c
+SHA256: 284e65bd100fff959201fa29bdf47bb668af1b1843d8bc7732d31374aacaf31d
+Section: Themes (Music Controls)
 Description: Lineal music controls. Works in app, CC, and LS
 Author: Alo
 Depiction: https://worksbybbs.github.io/depictions/LinealMC.html
-Icon: https://worksbybbs.github.io/assets/images/LinealMusicControls.png
+Icon: https://worksbybbs.github.io/assets/images/Icons/LMC.png
 Name: Lineal Music Controls
 Sileodepiction: https://worksbybbs.github.io/sileo-depiction/LinealMC.json
 
