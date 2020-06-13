@@ -57,7 +57,7 @@
     //*************************************************
     //ResponsiveMenu  *********************************
     //*************************************************
-    
+
     $('.header-light').scrollToFixed({
         preFixed: function () {
             $('.header-light').addClass('hdr-fixed-light');
@@ -134,7 +134,7 @@
     $('body').on('click', '.search-close', function () {
         var ele = $('.search-bar');
         ele.addClass('zoomOut');
-        setTimeout(function(){ 
+        setTimeout(function(){
             ele.css('display', 'none');
             ele.removeClass('zoomOut');
         }, 400);
